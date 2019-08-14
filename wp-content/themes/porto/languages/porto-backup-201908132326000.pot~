@@ -1,0 +1,4630 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Porto\n"
+"POT-Creation-Date: 2019-08-13 23:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: porto <porto@example.com>\n"
+"Language-Team: porto <porto@example.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../porto/content-portfolio-full-images.php:7
+#: ../porto/content-portfolio-masonry.php:7
+#: ../porto/content-portfolio-medium.php:7
+#: ../porto/content-portfolio-full.php:6
+#: ../porto/content-portfolio-gallery.php:16
+#: ../porto/content-portfolio-full-video.php:7
+#: ../porto/content-portfolio-extended.php:7
+#: ../porto/content-portfolio-medias.php:7
+#: ../porto/content-portfolio-carousel.php:7
+#: ../porto/views/portfolios/meta.php:12
+msgid "Portfolio"
+msgstr ""
+
+#: ../porto/content-portfolio-full-images.php:23
+#: ../porto/content-portfolio-masonry.php:22
+#: ../porto/content-portfolio-medium.php:25
+#: ../porto/content-portfolio-full.php:23
+#: ../porto/content-portfolio-gallery.php:32
+#: ../porto/content-portfolio-full-video.php:23
+#: ../porto/content-portfolio-extended.php:24
+#: ../porto/content-portfolio-large.php:21
+#: ../porto/content-portfolio-medias.php:22
+#: ../porto/content-portfolio-carousel.php:27
+msgid "Back to list"
+msgstr ""
+
+#: ../porto/content-portfolio-full-images.php:30
+#: ../porto/content-portfolio-masonry.php:29
+#: ../porto/content-portfolio-medium.php:32 ../porto/functions.php:902
+#: ../porto/content-portfolio-full.php:38
+#: ../porto/content-portfolio-gallery.php:38
+#: ../porto/content-portfolio-full-video.php:29
+#: ../porto/content-portfolio-extended.php:30
+#: ../porto/content-portfolio-large.php:28
+#: ../porto/content-portfolio-medias.php:28
+#: ../porto/content-portfolio-carousel.php:33
+#: ../porto/woocommerce/myaccount/orders.php:110
+msgid "Previous"
+msgstr ""
+
+#: ../porto/content-portfolio-full-images.php:31
+#: ../porto/content-portfolio-masonry.php:30
+#: ../porto/content-portfolio-medium.php:33 ../porto/functions.php:903
+#: ../porto/content-portfolio-full.php:39
+#: ../porto/content-portfolio-gallery.php:39
+#: ../porto/content-portfolio-full-video.php:30
+#: ../porto/content-portfolio-extended.php:31
+#: ../porto/content-portfolio-large.php:29
+#: ../porto/content-portfolio-medias.php:29
+#: ../porto/content-portfolio-carousel.php:34
+#: ../porto/woocommerce/myaccount/orders.php:115
+msgid "Next"
+msgstr ""
+
+#: ../porto/content-portfolio-full-images.php:171
+#: ../porto/content-portfolio-masonry.php:180
+#: ../porto/content-portfolio-medium.php:211
+#: ../porto/content-portfolio-full.php:256
+#: ../porto/content-portfolio-full-video.php:158
+#: ../porto/content-portfolio-medias.php:152
+#: ../porto/content-portfolio-carousel.php:216
+#, php-format
+msgid "%s <strong>Description</strong>"
+msgstr ""
+
+#: ../porto/content-portfolio-full-images.php:179
+#: ../porto/content-member.php:219 ../porto/content-portfolio-masonry.php:188
+#: ../porto/content-blog-timeline.php:134
+#: ../porto/content-portfolio-medium.php:256
+#: ../porto/content-archive-portfolio-medium.php:245
+#: ../porto/content-blog-woocommerce.php:89
+#: ../porto/content-post-full-alt.php:95
+#: ../porto/content-portfolio-full.php:264 ../porto/content-blog-grid.php:203
+#: ../porto/content-portfolio-gallery.php:173
+#: ../porto/content-post-large-alt.php:83
+#: ../porto/content-blog-medium-alt.php:99 ../porto/content-post-large.php:86
+#: ../porto/content-portfolio-full-video.php:166
+#: ../porto/content-blog-large.php:84 ../porto/content-post-medium.php:58
+#: ../porto/content-blog-full.php:85 ../porto/content-blog-medium.php:96
+#: ../porto/content-archive-portfolio-full.php:240
+#: ../porto/content-portfolio-extended.php:116
+#: ../porto/content-archive-faq.php:24 ../porto/content-portfolio-large.php:268
+#: ../porto/content-post-full.php:90 ../porto/content-portfolio-medias.php:160
+#: ../porto/content-post-woocommerce.php:58
+#: ../porto/content-blog-large-alt.php:93
+#: ../porto/content-portfolio-carousel.php:224
+#: ../porto/content-archive-portfolio-large.php:247
+#: ../porto/content-blog-masonry.php:222
+msgid "Pages:"
+msgstr ""
+
+#: ../porto/content-portfolio-full-images.php:183
+#: ../porto/content-member.php:223 ../porto/content-portfolio-masonry.php:192
+#: ../porto/content-blog-timeline.php:138
+#: ../porto/content-portfolio-medium.php:260
+#: ../porto/content-archive-portfolio-medium.php:249
+#: ../porto/content-blog-woocommerce.php:93
+#: ../porto/content-post-full-alt.php:99
+#: ../porto/content-portfolio-full.php:268 ../porto/content-blog-grid.php:207
+#: ../porto/content-portfolio-gallery.php:177
+#: ../porto/content-post-large-alt.php:87
+#: ../porto/content-blog-medium-alt.php:103 ../porto/content-post-large.php:90
+#: ../porto/content-portfolio-full-video.php:170
+#: ../porto/content-blog-large.php:88 ../porto/content-post-medium.php:62
+#: ../porto/content-blog-full.php:89 ../porto/content-blog-medium.php:100
+#: ../porto/content-archive-portfolio-full.php:244
+#: ../porto/content-portfolio-extended.php:120
+#: ../porto/content-archive-faq.php:28 ../porto/content-portfolio-large.php:272
+#: ../porto/content-post-full.php:94 ../porto/content-portfolio-medias.php:164
+#: ../porto/content-post-woocommerce.php:62
+#: ../porto/content-blog-large-alt.php:97
+#: ../porto/content-portfolio-carousel.php:228
+#: ../porto/content-archive-portfolio-large.php:251
+#: ../porto/content-blog-masonry.php:226
+msgid "Page"
+msgstr ""
+
+#: ../porto/content-portfolio-full-images.php:192
+#: ../porto/content-portfolio-masonry.php:201
+#: ../porto/content-portfolio-medium.php:269
+#: ../porto/content-portfolio-full.php:298
+#: ../porto/content-portfolio-gallery.php:207
+#: ../porto/content-portfolio-full-video.php:181
+#: ../porto/content-portfolio-extended.php:171
+#: ../porto/content-portfolio-large.php:281
+#: ../porto/content-portfolio-medias.php:194
+#: ../porto/content-portfolio-carousel.php:259
+msgid "More Information"
+msgstr ""
+
+#: ../porto/content-portfolio-full-images.php:201
+#: ../porto/content-portfolio-masonry.php:129
+#: ../porto/content-portfolio-masonry.php:212
+#: ../porto/content-portfolio-medium.php:280
+#: ../porto/content-portfolio-full.php:279
+#: ../porto/content-portfolio-gallery.php:188
+#: ../porto/content-portfolio-full-video.php:200
+#: ../porto/content-portfolio-extended.php:180
+#: ../porto/content-portfolio-large.php:211
+#: ../porto/content-portfolio-medias.php:175
+#: ../porto/content-portfolio-carousel.php:239
+#: ../porto/inc/functions/woocommerce.php:120
+msgid "Share"
+msgstr ""
+
+#: ../porto/content-portfolio-full-images.php:239
+#: ../porto/content-portfolio-full-images.php:241
+#: ../porto/content-portfolio-masonry.php:224
+#: ../porto/content-portfolio-masonry.php:226
+#: ../porto/content-portfolio-medium.php:293
+#: ../porto/content-portfolio-medium.php:295
+#: ../porto/content-portfolio-full.php:310
+#: ../porto/content-portfolio-full.php:312
+#: ../porto/content-portfolio-gallery.php:219
+#: ../porto/content-portfolio-gallery.php:221
+#: ../porto/content-portfolio-full-video.php:249
+#: ../porto/content-portfolio-full-video.php:251
+#: ../porto/content-portfolio-extended.php:204
+#: ../porto/content-portfolio-extended.php:206
+#: ../porto/content-portfolio-large.php:296
+#: ../porto/content-portfolio-large.php:298
+#: ../porto/content-portfolio-medias.php:206
+#: ../porto/content-portfolio-medias.php:208
+#: ../porto/content-portfolio-carousel.php:271
+#: ../porto/content-portfolio-carousel.php:273
+#: ../porto/views/posts/single/author.php:8
+#: ../porto/views/posts/single/author.php:10
+msgid "Author"
+msgstr ""
+
+#: ../porto/content-post-item-no-image.php:27
+#: ../porto/content-post-item-no-image.php:48
+#: ../porto/content-post-item-no-image.php:188
+#: ../porto/content-post-item-no-image.php:231
+#: ../porto/content-post-large-alt.php:49 ../porto/content-post-large.php:50
+#: ../porto/content-post-medium.php:83 ../porto/content-post-item.php:61
+#: ../porto/content-post-item.php:258 ../porto/content-post-item.php:335
+#: ../porto/content-post-full.php:54 ../porto/content-post-woocommerce.php:73
+#: ../porto/inc/functions/woocommerce.php:1156
+msgid "By"
+msgstr ""
+
+#: ../porto/content-post-item-no-image.php:32 ../porto/content-post-item.php:67
+#: ../porto/content-post-item.php:300 ../porto/inc/functions/post.php:200
+msgid "Read More"
+msgstr ""
+
+#: ../porto/content-post-item-no-image.php:64
+#: ../porto/content-post-item-no-image.php:140
+#: ../porto/content-post-item-no-image.php:198
+#: ../porto/content-blog-timeline.php:61
+#: ../porto/content-blog-woocommerce.php:29 ../porto/content-blog-grid.php:99
+#: ../porto/content-post-large-alt.php:65 ../porto/content-post-large.php:66
+#: ../porto/content-blog-large.php:28 ../porto/content-post-medium.php:99
+#: ../porto/content-blog-full.php:28 ../porto/content-blog-medium.php:30
+#: ../porto/content-post-item.php:93 ../porto/content-post-item.php:207
+#: ../porto/content-post-item.php:270 ../porto/content-post-full.php:70
+#: ../porto/content-post-woocommerce.php:89
+#: ../porto/content-blog-large-alt.php:38 ../porto/content-blog-masonry.php:106
+msgid "0 Comments"
+msgstr ""
+
+#: ../porto/content-post-item-no-image.php:64
+#: ../porto/content-post-item-no-image.php:140
+#: ../porto/content-post-item-no-image.php:198
+#: ../porto/content-blog-timeline.php:61
+#: ../porto/content-blog-woocommerce.php:29 ../porto/content-blog-grid.php:99
+#: ../porto/content-post-large-alt.php:65 ../porto/content-post-large.php:66
+#: ../porto/content-blog-large.php:28 ../porto/content-post-medium.php:99
+#: ../porto/content-blog-full.php:28 ../porto/content-blog-medium.php:30
+#: ../porto/content-post-item.php:93 ../porto/content-post-item.php:207
+#: ../porto/content-post-item.php:270 ../porto/content-post-full.php:70
+#: ../porto/content-post-woocommerce.php:89
+#: ../porto/content-blog-large-alt.php:38 ../porto/content-blog-masonry.php:106
+#: ../porto/inc/functions/general.php:274
+#: ../porto/inc/functions/general.php:345
+msgid "1 Comment"
+msgstr ""
+
+#: ../porto/content-post-item-no-image.php:64
+#: ../porto/content-post-item-no-image.php:140
+#: ../porto/content-post-item-no-image.php:198
+#: ../porto/content-blog-timeline.php:61
+#: ../porto/content-blog-woocommerce.php:29 ../porto/content-blog-grid.php:99
+#: ../porto/content-post-large-alt.php:65 ../porto/content-post-large.php:66
+#: ../porto/content-blog-large.php:28 ../porto/content-post-medium.php:99
+#: ../porto/content-blog-full.php:28 ../porto/content-blog-medium.php:30
+#: ../porto/content-post-item.php:93 ../porto/content-post-item.php:207
+#: ../porto/content-post-item.php:270 ../porto/content-post-full.php:70
+#: ../porto/content-post-woocommerce.php:89
+#: ../porto/content-blog-large-alt.php:38 ../porto/content-blog-masonry.php:106
+msgid "Comments"
+msgstr ""
+
+#: ../porto/content-post-item-no-image.php:214
+#: ../porto/content-post-item.php:307
+msgid "by"
+msgstr ""
+
+#: ../porto/content-member.php:42 ../porto/content-member-item.php:102
+#: ../porto/content-member-item.php:102 ../porto/share.php:55
+#: ../porto/share.php:55 ../porto/content-archive-member.php:118
+#: ../porto/content-archive-member.php:118
+#: ../porto/woocommerce/myaccount/login-social.php:31
+msgid "Facebook"
+msgstr ""
+
+#: ../porto/content-member.php:45 ../porto/content-member-item.php:105
+#: ../porto/content-member-item.php:105 ../porto/share.php:61
+#: ../porto/share.php:61 ../porto/content-archive-member.php:122
+#: ../porto/content-archive-member.php:122
+#: ../porto/woocommerce/myaccount/login-social.php:45
+msgid "Twitter"
+msgstr ""
+
+#: ../porto/content-member.php:48 ../porto/content-member-item.php:108
+#: ../porto/content-member-item.php:108 ../porto/share.php:67
+#: ../porto/share.php:67 ../porto/content-archive-member.php:126
+#: ../porto/content-archive-member.php:126
+msgid "LinkedIn"
+msgstr ""
+
+#: ../porto/content-member.php:51 ../porto/content-member-item.php:111
+#: ../porto/content-member-item.php:111 ../porto/share.php:73
+#: ../porto/share.php:73 ../porto/content-archive-member.php:130
+#: ../porto/content-archive-member.php:130
+msgid "Google +"
+msgstr ""
+
+#: ../porto/content-member.php:54 ../porto/content-member-item.php:114
+#: ../porto/content-member-item.php:114 ../porto/share.php:79
+#: ../porto/share.php:79 ../porto/content-archive-member.php:134
+#: ../porto/content-archive-member.php:134
+msgid "Pinterest"
+msgstr ""
+
+#: ../porto/content-member.php:57 ../porto/content-member-item.php:117
+#: ../porto/share.php:85 ../porto/share.php:85
+#: ../porto/content-archive-member.php:138 ../porto/inc/functions/post.php:487
+msgid "Email"
+msgstr ""
+
+#: ../porto/content-member.php:60 ../porto/content-member-item.php:120
+#: ../porto/content-member-item.php:120 ../porto/share.php:91
+#: ../porto/share.php:91 ../porto/content-archive-member.php:142
+#: ../porto/content-archive-member.php:142
+msgid "VK"
+msgstr ""
+
+#: ../porto/content-member.php:63 ../porto/content-member-item.php:123
+#: ../porto/content-member-item.php:123 ../porto/share.php:97
+#: ../porto/share.php:97 ../porto/content-archive-member.php:146
+#: ../porto/content-archive-member.php:146
+msgid "Xing"
+msgstr ""
+
+#: ../porto/content-member.php:66 ../porto/content-member-item.php:126
+#: ../porto/content-member-item.php:126 ../porto/share.php:103
+#: ../porto/share.php:103 ../porto/content-archive-member.php:150
+#: ../porto/content-archive-member.php:150
+msgid "Tumblr"
+msgstr ""
+
+#: ../porto/content-member.php:69 ../porto/content-member-item.php:129
+#: ../porto/content-member-item.php:129 ../porto/share.php:109
+#: ../porto/share.php:109 ../porto/content-archive-member.php:154
+#: ../porto/content-archive-member.php:154
+msgid "Reddit"
+msgstr ""
+
+#: ../porto/content-member.php:72 ../porto/content-member-item.php:132
+#: ../porto/content-member-item.php:132 ../porto/content-archive-member.php:158
+#: ../porto/content-archive-member.php:158
+msgid "Vimeo"
+msgstr ""
+
+#: ../porto/content-member.php:75 ../porto/content-member-item.php:135
+#: ../porto/content-member-item.php:135 ../porto/content-archive-member.php:162
+#: ../porto/content-archive-member.php:162
+msgid "Instagram"
+msgstr ""
+
+#: ../porto/content-member.php:78 ../porto/content-member-item.php:138
+#: ../porto/content-member-item.php:138 ../porto/share.php:115
+#: ../porto/share.php:115 ../porto/content-archive-member.php:166
+#: ../porto/content-archive-member.php:166
+msgid "WhatsApp"
+msgstr ""
+
+#: ../porto/content-member.php:81 ../porto/content-member-item.php:141
+#: ../porto/content-archive-member.php:169
+msgid "Phone"
+msgstr ""
+
+#: ../porto/content-member.php:155 ../porto/content-member.php:175
+#: ../porto/content-member.php:201
+msgid "Follow Me"
+msgstr ""
+
+#: ../porto/content-member.php:192
+msgid "Get In Touch"
+msgstr ""
+
+#: ../porto/content-member.php:195
+msgid "More"
+msgstr ""
+
+#: ../porto/content-blog-timeline.php:48
+#: ../porto/content-blog-woocommerce.php:18 ../porto/content-blog-grid.php:86
+#: ../porto/content-blog-large.php:17 ../porto/content-blog-full.php:17
+#: ../porto/content-blog-medium.php:19 ../porto/content-post-item.php:80
+#: ../porto/content-blog-large-alt.php:27 ../porto/content-blog-masonry.php:93
+msgid "By "
+msgstr ""
+
+#: ../porto/content-blog-timeline.php:81
+#: ../porto/content-blog-woocommerce.php:45 ../porto/content-blog-grid.php:148
+#: ../porto/content-blog-medium-alt.php:79 ../porto/content-blog-large.php:71
+#: ../porto/content-blog-full.php:44 ../porto/content-blog-medium.php:81
+#: ../porto/content-blog-large-alt.php:79 ../porto/content-blog-masonry.php:206
+msgid "Featured"
+msgstr ""
+
+#: ../porto/content-blog-timeline.php:167
+#: ../porto/content-blog-woocommerce.php:109 ../porto/content-blog-grid.php:227
+#: ../porto/content-blog-large.php:39 ../porto/content-blog-full.php:105
+#: ../porto/content-blog-medium.php:42 ../porto/content-blog-large-alt.php:123
+#: ../porto/content-blog-masonry.php:246
+msgid "Read more..."
+msgstr ""
+
+#: ../porto/archive.php:90 ../porto/search.php:81
+msgid "Nothing Found"
+msgstr ""
+
+#: ../porto/archive.php:94
+#, php-format
+msgid "Ready to publish your first post? %1$sGet started here%2$s."
+msgstr ""
+
+#: ../porto/archive.php:98 ../porto/search.php:89
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../porto/archive.php:103 ../porto/search.php:94
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../porto/archive-member.php:42 ../porto/taxonomy-member_cat.php:35
+#, php-format
+msgid "More %s:"
+msgstr ""
+
+#: ../porto/archive-member.php:94 ../porto/archive-portfolio.php:107
+#: ../porto/archive-faq.php:92 ../porto/taxonomy-portfolio_cat.php:99
+#: ../porto/taxonomy-faq_cat.php:70
+msgid "Show All"
+msgstr ""
+
+#: ../porto/archive-member.php:128 ../porto/taxonomy-portfolio_skills.php:96
+#: ../porto/index.php:51 ../porto/archive-portfolio.php:196
+#: ../porto/archive-faq.php:127 ../porto/taxonomy-portfolio_cat.php:183
+#: ../porto/taxonomy-member_cat.php:58 ../porto/archive-event.php:62
+#: ../porto/taxonomy-faq_cat.php:100
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: ../porto/content-post-full-alt.php:39
+msgid "Posted by: "
+msgstr ""
+
+#: ../porto/content-post-full-alt.php:48
+#: ../porto/content-blog-medium-alt.php:20
+msgid "Category: "
+msgstr ""
+
+#: ../porto/content-post-full-alt.php:55
+#: ../porto/content-blog-medium-alt.php:24
+msgid "Tags: "
+msgstr ""
+
+#: ../porto/content-post-full-alt.php:59
+#: ../porto/content-blog-medium-alt.php:27
+msgid "Comments: "
+msgstr ""
+
+#: ../porto/content-post-full-alt.php:61
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/content-post-full-alt.php:80
+#: ../porto/content-blog-medium-alt.php:39
+msgid "Post Date: "
+msgstr ""
+
+#: ../porto/functions.php:315
+#: ../porto/inc/admin/customizer/header-builder.php:39
+msgid "Main Menu"
+msgstr ""
+
+#: ../porto/functions.php:316
+#: ../porto/inc/admin/customizer/header-builder.php:40
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../porto/functions.php:317
+msgid "Sidebar Menu"
+msgstr ""
+
+#: ../porto/functions.php:318
+msgid "Top Navigation"
+msgstr ""
+
+#: ../porto/functions.php:319
+msgid "View Switcher"
+msgstr ""
+
+#: ../porto/functions.php:320
+#: ../porto/inc/admin/customizer/header-builder.php:46
+msgid "Currency Switcher"
+msgstr ""
+
+#: ../porto/functions.php:351 ../porto/inc/functions/shortcodes.php:2935
+#: ../porto/inc/functions/shortcodes.php:2990
+msgid "Primary"
+msgstr ""
+
+#: ../porto/functions.php:356 ../porto/inc/functions/shortcodes.php:2936
+#: ../porto/inc/functions/shortcodes.php:2991
+msgid "Secondary"
+msgstr ""
+
+#: ../porto/functions.php:361 ../porto/inc/functions/shortcodes.php:2937
+#: ../porto/inc/functions/shortcodes.php:2992
+msgid "Tertiary"
+msgstr ""
+
+#: ../porto/functions.php:366 ../porto/inc/functions/shortcodes.php:2938
+#: ../porto/inc/functions/shortcodes.php:2993
+msgid "Quaternary"
+msgstr ""
+
+#: ../porto/functions.php:371 ../porto/inc/functions/shortcodes.php:2939
+#: ../porto/inc/functions/shortcodes.php:2994
+#: ../porto/inc/functions/shortcodes.php:3017
+msgid "Dark"
+msgstr ""
+
+#: ../porto/functions.php:376 ../porto/inc/functions/shortcodes.php:2940
+#: ../porto/inc/functions/shortcodes.php:2995
+#: ../porto/inc/functions/shortcodes.php:3018
+msgid "Light"
+msgstr ""
+
+#: ../porto/functions.php:896
+msgid "%curr% of %total%"
+msgstr ""
+
+#: ../porto/functions.php:898
+msgid "<a href=\"%url%\">The image</a> could not be loaded."
+msgstr ""
+
+#: ../porto/functions.php:900
+msgid "<a href=\"%url%\">The content</a> could not be loaded."
+msgstr ""
+
+#: ../porto/functions.php:901
+#: ../porto/inc/admin/customizer/header-builder.php:645
+msgid "Close"
+msgstr ""
+
+#: ../porto/functions.php:904
+msgid "The requested content cannot be loaded.<br/>Please try again later."
+msgstr ""
+
+#: ../porto/functions.php:905
+#: ../porto/inc/lib/infinite-scroll/infinite-scroll.php:175
+msgid "Loading..."
+msgstr ""
+
+#: ../porto/functions.php:906
+#: ../porto/woocommerce/myaccount/form-register-2.php:69
+msgid "Back"
+msgstr ""
+
+#: ../porto/functions.php:947
+msgid ""
+"If you want to import demo, please backup current theme options in \"Import "
+"/ Export\" section before import. Do you want to import demo?"
+msgstr ""
+
+#: ../porto/content-portfolio-full.php:33
+#, php-format
+msgid "%d photo"
+msgid_plural "%d photos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/404.php:12 ../porto/inc/functions/layout/breadcrumbs.php:267
+msgid "404"
+msgstr ""
+
+#: ../porto/404.php:13
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr ""
+
+#: ../porto/searchform.php:6
+#: ../porto/woocommerce/yith-woocommerce-ajax-search.php:40
+msgid "Search"
+msgstr ""
+
+#: ../porto/content-member-item.php:184 ../porto/content-archive-member.php:221
+msgid "View More..."
+msgstr ""
+
+#: ../porto/content-member-item.php:234 ../porto/content-archive-member.php:281
+msgid "..."
+msgstr ""
+
+#: ../porto/content-portfolio-gallery.php:165
+#, php-format
+msgid "%1$s %2$sDescription%3$s"
+msgstr ""
+
+#: ../porto/single.php:41 ../porto/single.php:49
+#, php-format
+msgid "Back to %s"
+msgstr ""
+
+#: ../porto/single.php:60
+#, php-format
+msgid "Related %1$sPosts%2$s"
+msgstr ""
+
+#: ../porto/content-blog-medium-alt.php:16
+msgid "Posted By "
+msgstr ""
+
+#: ../porto/content-blog-medium-alt.php:27
+msgid "0"
+msgstr ""
+
+#: ../porto/content-blog-medium-alt.php:27
+msgid "1"
+msgstr ""
+
+#: ../porto/content-blog-medium-alt.php:120
+msgid "Read more"
+msgstr ""
+
+#: ../porto/content-archive-portfolio-masonry.php:280
+#: ../porto/content-portfolio-item.php:115
+#: ../porto/content-archive-portfolio-grid.php:287
+msgid "View Project..."
+msgstr ""
+
+#: ../porto/search.php:85
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../porto/content-portfolio-full-video.php:215
+#, php-format
+msgid "%s <strong>Gallery</strong>"
+msgstr ""
+
+#: ../porto/single-member.php:31
+msgid "Members"
+msgstr ""
+
+#: ../porto/single-member.php:63
+#, php-format
+msgid "Related <strong>%s</strong>"
+msgstr ""
+
+#: ../porto/page.php:81 ../porto/views/posts/single/share.php:19
+#: ../porto/views/posts/single/share.php:21
+msgid "Share this post"
+msgstr ""
+
+#: ../porto/content-portfolio-large.php:260
+msgid "Project <strong>Description</strong>"
+msgstr ""
+
+#: ../porto/comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../porto/comments.php:20 ../porto/comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "Comment (1)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: ../porto/single-event.php:112
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1240
+msgid "Live Preview"
+msgstr ""
+
+#: ../porto/header/header_builder.php:31
+msgid "Secondary Logo"
+msgstr ""
+
+#: ../porto/header/header_9.php:136
+msgid "Logout"
+msgstr ""
+
+#: ../porto/header/header_9.php:154
+#: ../porto/woocommerce/myaccount/form-register.php:17
+#: ../porto/woocommerce/myaccount/form-register.php:60
+msgid "Register"
+msgstr ""
+
+#: ../porto/header/header_9.php:156
+#: ../porto/woocommerce/checkout/form-login.php:28
+#: ../porto/woocommerce/global/form-login.php:45
+#: ../porto/woocommerce/global/form-login.php:45
+msgid "Login"
+msgstr ""
+
+#: ../porto/woocommerce/share.php:24
+msgid "Share on"
+msgstr ""
+
+#: ../porto/woocommerce/wishlist-view.php:25
+msgid "Edit title"
+msgstr ""
+
+#: ../porto/woocommerce/wishlist-view.php:34
+#: ../porto/woocommerce/myaccount/form-lost-password.php:81
+#: ../porto/inc/admin/customizer/header-builder.php:423
+msgid "Save"
+msgstr ""
+
+#: ../porto/woocommerce/wishlist-view.php:38
+#: ../porto/woocommerce/myaccount/my-orders.php:95
+#: ../porto/woocommerce/myaccount/orders.php:76
+msgid "Cancel"
+msgstr ""
+
+#: ../porto/woocommerce/wishlist-view.php:59
+#: ../porto/woocommerce/cart/cart-v1.php:19
+#: ../porto/woocommerce/cart/cart-v2.php:27
+msgid "Product Name"
+msgstr ""
+
+#: ../porto/woocommerce/wishlist-view.php:65
+#: ../porto/woocommerce/cart/cart-v1.php:20
+#: ../porto/woocommerce/cart/cart-v2.php:28
+msgid "Unit Price"
+msgstr ""
+
+#: ../porto/woocommerce/wishlist-view.php:73
+msgid "Stock Status"
+msgstr ""
+
+#: ../porto/woocommerce/wishlist-view.php:111
+msgid "Remove this product"
+msgstr ""
+
+#: ../porto/woocommerce/wishlist-view.php:138
+msgid "Free!"
+msgstr ""
+
+#: ../porto/woocommerce/wishlist-view.php:149
+msgid "Out of Stock"
+msgstr ""
+
+#: ../porto/woocommerce/wishlist-view.php:152
+msgid "In Stock"
+msgstr ""
+
+#: ../porto/woocommerce/wishlist-view.php:199
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: ../porto/woocommerce/wishlist-view.php:227
+msgid "Ask for an estimate"
+msgstr ""
+
+#: ../porto/woocommerce/content-product_cat.php:119
+#: ../porto/woocommerce/content-product_cat.php:139
+#, php-format
+msgid "%s Products"
+msgstr ""
+
+#: ../porto/woocommerce/yit-pointers.php:74
+msgid "Plugins Activated"
+msgstr ""
+
+#: ../porto/woocommerce/yit-pointers.php:75
+msgid ""
+"From now on, you can find all plugin options in YITH Plugins menu.\n"
+"\t\t\t\t\t\t\t\t\t Plugin customization settings will be available as a new "
+"entry in YITH Plugins menu."
+msgstr ""
+
+#: ../porto/woocommerce/yit-pointers.php:80
+#: ../porto/woocommerce/yit-pointers.php:100
+msgid "Discover all our plugins available on:"
+msgstr ""
+
+#: ../porto/woocommerce/yit-pointers.php:81
+#: ../porto/woocommerce/yit-pointers.php:101
+msgid "and"
+msgstr ""
+
+#: ../porto/woocommerce/yit-pointers.php:92
+msgid "Plugins Upgraded"
+msgstr ""
+
+#: ../porto/woocommerce/yit-pointers.php:93
+msgid ""
+"From now on, you can find the option panel of YITH plugins in YITH Plugins "
+"menu.\n"
+"\t\t\t\t\t\t\t\t\tEvery time one of our plugins is added, a new entry will "
+"be added to this menu.\n"
+"\t\t\t\t\t\t\t\t\tFor example, after the update, plugin options (such as for "
+"YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"\t\t\t\t\t\t\t\t\twill be moved from previous location to YITH Plugins tab."
+msgstr ""
+
+#: ../porto/woocommerce/yith-woocommerce-ajax-search.php:21
+msgid "Search&hellip;"
+msgstr ""
+
+#: ../porto/woocommerce/yith-woocommerce-ajax-search.php:25
+msgid "All Categories"
+msgstr ""
+
+#: ../porto/inc/plugins/plugins.php:185
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../porto/inc/plugins/plugins.php:186
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:691
+msgid "Install Plugins"
+msgstr ""
+
+#: ../porto/inc/plugins/plugins.php:188
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../porto/inc/plugins/plugins.php:189
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../porto/inc/plugins/plugins.php:191
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/inc/plugins/plugins.php:194
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/inc/plugins/plugins.php:196
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/inc/plugins/plugins.php:199
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/inc/plugins/plugins.php:201
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/inc/plugins/plugins.php:203
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/inc/plugins/plugins.php:204
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/inc/plugins/plugins.php:205
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/inc/plugins/plugins.php:206
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../porto/inc/plugins/plugins.php:207
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../porto/inc/plugins/plugins.php:209
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../porto/inc/functions/general.php:271
+#: ../porto/inc/functions/general.php:343
+msgid "No Comments"
+msgstr ""
+
+#: ../porto/inc/functions/general.php:277
+#: ../porto/inc/functions/general.php:341
+msgid "% Comments"
+msgstr ""
+
+#: ../porto/inc/functions/general.php:280
+msgid "Comments Off"
+msgstr ""
+
+#: ../porto/inc/functions/general.php:293
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: ../porto/inc/functions/general.php:323
+#, php-format
+msgid "Comment on %s"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:176
+msgid "Grid View"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:176
+msgid "List View"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:348
+#, php-format
+msgid "Cart %s"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:354
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/inc/functions/woocommerce.php:790
+msgid "Availability"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:981
+msgid "First Name"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:985
+msgid "Last Name"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1006
+msgid "<strong>Error</strong>: First name is required!"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1009
+msgid "<strong>Error</strong>: Last name is required!."
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1047
+msgid "Passwords do not match."
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1120
+msgid "Phone Number"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1121
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1122
+msgid "Google Plus Profil URL"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1123
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1124
+msgid "Linkedin Profile URL"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1125
+msgid "Youtube Profile URL"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1126
+msgid "Flickr Profile URL"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1183
+msgid "Sold by : "
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1193
+msgid "Public Profile - Gallery"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1255
+msgid "More from this seller&hellip;"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1278
+#: ../porto/inc/functions/shortcodes.php:1354
+#: ../porto/inc/functions/shortcodes.php:1663
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:134
+msgid "Color"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1519
+msgid "Filters:"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1569
+msgid "Offer Ends In:"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1571
+#: ../porto/inc/functions/woocommerce.php:1573
+msgid "Day"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1571
+#: ../porto/inc/functions/woocommerce.php:1573
+msgid "Days"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1571
+msgid "Hour"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1571
+msgid "Hours"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1571
+msgid "Minute"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1571
+msgid "Minutes"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1571
+msgid "Second"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1571
+msgid "Seconds"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1681
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1691
+msgid "Wrong username or password."
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1750
+msgid "Register successful, redirecting..."
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1760
+msgid "Register failed."
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1970
+msgid "Out of stock"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1970
+msgid "In stock"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1986
+msgid "You've just added this product to the cart"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1988
+msgid "Go to cart page"
+msgstr ""
+
+#: ../porto/inc/functions/woocommerce.php:1989
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:849
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:986
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1308
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1357
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1461
+msgid "Continue"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:76
+msgid "Porto Options"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:77
+msgid "Sticky Options"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:78
+msgid "Animation"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:81
+msgid "Animation Type"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:87
+msgid "Animation Duration"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:89
+#: ../porto/inc/functions/shortcodes.php:97
+msgid "numerical value (unit: milliseconds)"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:95
+msgid "Animation Delay"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:124
+msgid "Wrap as Container"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:135
+msgid "No Space between Columns?"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:146
+#: ../porto/inc/functions/shortcodes.php:689
+msgid "Section & Parallax Text Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:156
+#: ../porto/inc/functions/shortcodes.php:699
+msgid "Text Align"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:166
+#: ../porto/inc/functions/shortcodes.php:709
+msgid "Is Section?"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:177
+#: ../porto/inc/functions/shortcodes.php:720
+msgid "Section Skin Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:187
+#: ../porto/inc/functions/shortcodes.php:730
+msgid "Section Default Color Scale"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:201
+#: ../porto/inc/functions/shortcodes.php:744
+msgid "Section Color Scale"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:209
+#: ../porto/inc/functions/shortcodes.php:752
+#: ../porto/inc/functions/shortcodes.php:2249
+#: ../porto/inc/functions/shortcodes.php:2263
+#: ../porto/inc/functions/shortcodes.php:2314
+#: ../porto/inc/functions/shortcodes.php:2783
+#: ../porto/inc/functions/shortcodes.php:2790
+#: ../porto/inc/functions/shortcodes.php:2804
+#: ../porto/inc/functions/shortcodes.php:2824
+#: ../porto/inc/functions/shortcodes.php:2915
+#: ../porto/inc/functions/shortcodes.php:2926
+#: ../porto/inc/functions/shortcodes.php:2956
+#: ../porto/inc/functions/shortcodes.php:2988
+#: ../porto/inc/functions/shortcodes.php:3001
+#: ../porto/inc/functions/shortcodes.php:3016
+#: ../porto/inc/functions/content_type/meta_values.php:10
+#: ../porto/inc/functions/content_type/meta_values.php:33
+#: ../porto/inc/functions/content_type/meta_values.php:42
+#: ../porto/inc/functions/content_type/meta_values.php:135
+#: ../porto/inc/admin/customizer/header-builder.php:296
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:133
+msgid "Default"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:210
+#: ../porto/inc/functions/shortcodes.php:753
+#: ../porto/inc/functions/shortcodes.php:2264
+#: ../porto/inc/functions/shortcodes.php:3003
+msgid "Scale 2"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:218
+#: ../porto/inc/functions/shortcodes.php:761
+msgid "Remove Margin Top"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:228
+#: ../porto/inc/functions/shortcodes.php:771
+msgid "Remove Margin Bottom"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:238
+#: ../porto/inc/functions/shortcodes.php:781
+msgid "Remove Padding Top"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:248
+#: ../porto/inc/functions/shortcodes.php:791
+msgid "Remove Padding Bottom"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:258
+#: ../porto/inc/functions/shortcodes.php:801
+msgid "Remove Border"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:268
+#: ../porto/inc/functions/shortcodes.php:811
+msgid "Show Divider"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:282
+#: ../porto/inc/functions/shortcodes.php:825
+msgid "Divider Position"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:285
+#: ../porto/inc/functions/shortcodes.php:828
+msgid "Top"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:286
+#: ../porto/inc/functions/shortcodes.php:829
+msgid "Bottom"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:299
+#: ../porto/inc/functions/shortcodes.php:842
+msgid "Divider Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:312
+#: ../porto/inc/functions/shortcodes.php:855
+msgid "Divider Height"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:325
+#: ../porto/inc/functions/shortcodes.php:868
+msgid "Show Divider Icon"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:341
+#: ../porto/inc/functions/shortcodes.php:884
+#: ../porto/inc/functions/shortcodes.php:1420
+#: ../porto/inc/functions/shortcodes.php:1783
+#: ../porto/inc/functions/shortcodes.php:2080
+#: ../porto/inc/functions/shortcodes.php:2159
+msgid "Font Awesome"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:342
+#: ../porto/inc/functions/shortcodes.php:885
+#: ../porto/inc/functions/shortcodes.php:1421
+#: ../porto/inc/functions/shortcodes.php:1784
+#: ../porto/inc/functions/shortcodes.php:2081
+#: ../porto/inc/functions/shortcodes.php:2160
+msgid "Simple Line Icon"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:343
+#: ../porto/inc/functions/shortcodes.php:886
+#: ../porto/inc/functions/shortcodes.php:1422
+#: ../porto/inc/functions/shortcodes.php:1785
+#: ../porto/inc/functions/shortcodes.php:2082
+#: ../porto/inc/functions/shortcodes.php:2161
+msgid "Custom Image Icon"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:357
+#: ../porto/inc/functions/shortcodes.php:370
+#: ../porto/inc/functions/shortcodes.php:383
+#: ../porto/inc/functions/shortcodes.php:900
+#: ../porto/inc/functions/shortcodes.php:913
+#: ../porto/inc/functions/shortcodes.php:926
+#: ../porto/inc/functions/shortcodes.php:1436
+#: ../porto/inc/functions/shortcodes.php:1449
+#: ../porto/inc/functions/shortcodes.php:1462
+#: ../porto/inc/functions/shortcodes.php:1799
+#: ../porto/inc/functions/shortcodes.php:1812
+#: ../porto/inc/functions/shortcodes.php:1825
+#: ../porto/inc/functions/shortcodes.php:2096
+#: ../porto/inc/functions/shortcodes.php:2109
+#: ../porto/inc/functions/shortcodes.php:2122
+#: ../porto/inc/functions/shortcodes.php:2175
+#: ../porto/inc/functions/shortcodes.php:2188
+#: ../porto/inc/functions/shortcodes.php:2201
+msgid "Select Icon"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:401
+#: ../porto/inc/functions/shortcodes.php:944
+#: ../porto/inc/functions/shortcodes.php:1489
+#: ../porto/inc/functions/shortcodes.php:1843
+msgid "Icon Skin Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:416
+#: ../porto/inc/functions/shortcodes.php:959
+#: ../porto/inc/functions/shortcodes.php:1504
+#: ../porto/inc/functions/shortcodes.php:1858
+#: ../porto/inc/functions/shortcodes.php:2541
+msgid "Icon Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:429
+#: ../porto/inc/functions/shortcodes.php:972
+#: ../porto/inc/functions/shortcodes.php:1517
+#: ../porto/inc/functions/shortcodes.php:1871
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:442
+#: ../porto/inc/functions/shortcodes.php:985
+#: ../porto/inc/functions/shortcodes.php:1530
+#: ../porto/inc/functions/shortcodes.php:1884
+msgid "Icon Border Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:455
+#: ../porto/inc/functions/shortcodes.php:998
+#: ../porto/inc/functions/shortcodes.php:1543
+#: ../porto/inc/functions/shortcodes.php:1897
+msgid "Icon Wrap Border Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:468
+#: ../porto/inc/functions/shortcodes.php:1011
+#: ../porto/inc/functions/shortcodes.php:1378
+#: ../porto/inc/functions/shortcodes.php:1910
+msgid "Icon Style"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:482
+#: ../porto/inc/functions/shortcodes.php:1025
+#: ../porto/inc/functions/shortcodes.php:1924
+msgid "Icon Position"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:496
+#: ../porto/inc/functions/shortcodes.php:1039
+#: ../porto/inc/functions/shortcodes.php:1938
+msgid "Icon Size"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:510
+#: ../porto/inc/functions/shortcodes.php:598
+#: ../porto/inc/functions/shortcodes.php:1053
+#: ../porto/inc/functions/shortcodes.php:1141
+msgid "Enable Sticky Options?"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:521
+#: ../porto/inc/functions/shortcodes.php:609
+#: ../porto/inc/functions/shortcodes.php:1064
+#: ../porto/inc/functions/shortcodes.php:1152
+msgid "Container Selector"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:535
+#: ../porto/inc/functions/shortcodes.php:623
+#: ../porto/inc/functions/shortcodes.php:1078
+#: ../porto/inc/functions/shortcodes.php:1166
+msgid "Min Width (unit: px)"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:537
+#: ../porto/inc/functions/shortcodes.php:625
+#: ../porto/inc/functions/shortcodes.php:1080
+#: ../porto/inc/functions/shortcodes.php:1168
+msgid "Wll be disabled if window width is smaller than min width"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:550
+#: ../porto/inc/functions/shortcodes.php:638
+#: ../porto/inc/functions/shortcodes.php:1093
+#: ../porto/inc/functions/shortcodes.php:1181
+msgid "Top (unit: px)"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:552
+#: ../porto/inc/functions/shortcodes.php:640
+#: ../porto/inc/functions/shortcodes.php:1095
+#: ../porto/inc/functions/shortcodes.php:1183
+msgid "Top position when active"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:565
+#: ../porto/inc/functions/shortcodes.php:653
+#: ../porto/inc/functions/shortcodes.php:1108
+#: ../porto/inc/functions/shortcodes.php:1196
+msgid "Bottom (unit: px)"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:567
+#: ../porto/inc/functions/shortcodes.php:655
+#: ../porto/inc/functions/shortcodes.php:1110
+#: ../porto/inc/functions/shortcodes.php:1198
+msgid "Bottom position when active"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:580
+#: ../porto/inc/functions/shortcodes.php:668
+#: ../porto/inc/functions/shortcodes.php:1123
+#: ../porto/inc/functions/shortcodes.php:1211
+msgid "Active Class"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1232
+msgid "Text Transform"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1236
+#: ../porto/inc/functions/shortcodes.php:2760
+#: ../porto/inc/functions/shortcodes.php:2946
+msgid "None"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1237
+msgid "Uppercase"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1238
+msgid "Lowercase"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1239
+msgid "Capitalize"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1248
+#: ../porto/inc/functions/shortcodes.php:1342
+#: ../porto/inc/functions/shortcodes.php:1651
+#: ../porto/inc/functions/shortcodes.php:2026
+#: ../porto/inc/functions/shortcodes.php:2243
+msgid "Skin Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1259
+msgid "Show Border"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1269
+msgid "Border Skin Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1284
+msgid "Border Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1297
+msgid "Border Type"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1311
+msgid "Border Size"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1330
+#: ../porto/inc/functions/shortcodes.php:1639
+msgid "Position"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1333
+#: ../porto/inc/functions/shortcodes.php:1642
+msgid "Select the position of the tab header."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1367
+#: ../porto/inc/functions/shortcodes.php:1676
+#: ../porto/inc/functions/shortcodes.php:1692
+#: ../porto/inc/functions/shortcodes.php:2006
+#: ../porto/inc/functions/shortcodes.php:2482
+#: ../porto/inc/admin/customizer/header-builder.php:292
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:131
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:166
+msgid "Type"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1393
+msgid "Icon Effect"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1408
+#: ../porto/inc/functions/shortcodes.php:1771
+#: ../porto/inc/functions/shortcodes.php:2068
+#: ../porto/inc/functions/shortcodes.php:2147
+msgid "Show Icon"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1480
+msgid "Please configure the following options when Tabs Type is Simple."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1556
+msgid "Icon Box Shadow Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1569
+msgid "Icon Hover Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1582
+msgid "Icon Hover Background Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1595
+msgid "Icon Hover Border Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1608
+msgid "Icon Wrap Hover Border Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1621
+msgid "Icon Hover Box Shadow Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1702
+#: ../porto/inc/functions/shortcodes.php:1967
+msgid "Style"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1716
+#: ../porto/inc/functions/shortcodes.php:1977
+#: ../porto/inc/functions/shortcodes.php:2850
+msgid "Pattern"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1729
+msgid "Pattern Repeat"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1743
+msgid "Pattern Position"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1757
+msgid "Pattern Height (unit: px)"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1952
+msgid "Gap Size"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:1990
+msgid "Element Tag"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2016
+#: ../porto/inc/functions/shortcodes.php:2445
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:146
+msgid "Size"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2042
+msgid "Heading Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2055
+msgid "Heading Background Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2223
+msgid "Disable"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2225
+msgid "Disable button."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2233
+#: ../porto/inc/functions/shortcodes.php:2283
+msgid "Show as Label"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2259
+msgid "Color Scale"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2273
+#: ../porto/inc/functions/shortcodes.php:2402
+msgid "Contextual Classes"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2293
+msgid "Show pointer arrow"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2295
+#: ../porto/inc/functions/shortcodes.php:2305
+msgid "Yes"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2303
+msgid "Is Arrow Button?"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2310
+#: ../porto/inc/functions/shortcodes.php:3038
+msgid "Extra Large"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2329
+msgid ""
+"Please select \"On click action\" as \"Link to Large Image\" in \"Design "
+"Section\" before configure."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2338
+msgid "LightBox"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2341
+msgid "Check it if you want to link to the lightbox with the large image."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2349
+msgid "Show as Image Gallery"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2351
+msgid "Show all the images inside of same row."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2360
+msgid "Container Class"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2374
+msgid "Show Zoom Icon"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2384
+msgid "Show Hover Effect"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2413
+msgid "Enable Animation"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2424
+msgid "Show Percentage as Tooltip"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2435
+msgid "Border Radius"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2455
+msgid "Min Width"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2486
+msgid "Porto Circular Bar"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2487
+msgid "VC Pie Chart"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2489
+msgid "Select pie chart type."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2498
+#: ../porto/inc/functions/shortcodes.php:2598
+msgid "Bar color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2514
+msgid "View Type"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2528
+msgid "Select FontAwesome Icon"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2554
+msgid "View Size"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2568
+msgid "Bar Size"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2575
+msgid "Enter the size of the chart in px."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2583
+msgid "Track Color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2590
+msgid ""
+"Choose the color of the track. Please clear this if you want to use the "
+"default color."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2604
+msgid ""
+"Select pie chart color. Please clear this if you want to use the default "
+"color."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2612
+msgid "Scale color"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2618
+msgid ""
+"Choose the color of the scale. Please clear this if you want to hide the "
+"scale."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2626
+msgid "Animation Speed"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2633
+msgid "Enter the animation speed in milliseconds."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2641
+msgid "Line Width"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2648
+msgid "Enter the width of the line bar in px."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2656
+msgid "Line Cap"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2660
+msgid "Round"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2661
+msgid "Square"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2667
+msgid "Choose how the ending of the bar line looks like."
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2761
+#: ../porto/inc/functions/shortcodes.php:2817
+#: ../porto/inc/functions/shortcodes.php:2895
+msgid "Left"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2762
+#: ../porto/inc/functions/shortcodes.php:2818
+#: ../porto/inc/functions/shortcodes.php:2896
+msgid "Right"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2763
+#: ../porto/inc/functions/shortcodes.php:2894
+msgid "Center"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2764
+msgid "Justify"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2770
+msgid "Top left"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2771
+msgid "Top right"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2772
+msgid "Bottom left"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2773
+msgid "Bottom right"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2774
+msgid "Top justify"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2775
+msgid "Bottom justify"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2776
+msgid "Top center"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2777
+msgid "Bottom center"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2784
+#: ../porto/inc/functions/content_type/meta_values.php:43
+msgid "Simple"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2791
+#: ../porto/inc/functions/shortcodes.php:2877
+msgid "Style 1"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2792
+#: ../porto/inc/functions/shortcodes.php:2878
+msgid "Style 2"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2793
+#: ../porto/inc/functions/shortcodes.php:2879
+msgid "Style 3"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2794
+#: ../porto/inc/functions/shortcodes.php:2880
+msgid "Style 4"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2795
+msgid "Style 5"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2796
+msgid "Style 6"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2797
+msgid "Style 7"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2798
+msgid "Style 8"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2805
+msgid "Effect 1"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2806
+msgid "Effect 2"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2807
+msgid "Effect 3"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2808
+msgid "Effect 4"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2809
+msgid "Effect 5"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2810
+msgid "Effect 6"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2811
+msgid "Effect 7"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2825
+msgid "Navigation"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2831
+#: ../porto/inc/functions/shortcodes.php:2840
+#: ../porto/inc/functions/shortcodes.php:2886
+#: ../porto/inc/functions/shortcodes.php:2964
+#: ../porto/inc/functions/shortcodes.php:2980
+#: ../porto/inc/functions/shortcodes.php:3034
+msgid "Normal"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2832
+msgid "Short"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2833
+msgid "Tall"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2834
+msgid "Taller"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2841
+#: ../porto/inc/functions/shortcodes.php:2887
+#: ../porto/inc/functions/shortcodes.php:2927
+#: ../porto/inc/functions/shortcodes.php:2965
+#: ../porto/inc/functions/shortcodes.php:2981
+#: ../porto/inc/functions/shortcodes.php:3036
+msgid "Small"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2847
+msgid "Gradient"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2848
+msgid "Solid"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2849
+msgid "Dashed"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2856
+msgid "Repeat"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2857
+msgid "No Repeat"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2863
+msgid "Left Top"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2864
+msgid "Left Center"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2865
+msgid "Left Bottom"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2866
+msgid "Center Top"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2867
+msgid "Center Center"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2868
+msgid "Center Bottom"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2869
+msgid "Right Top"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2870
+msgid "Right Center"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2871
+msgid "Right Bottom"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2888
+#: ../porto/inc/functions/shortcodes.php:2928
+#: ../porto/inc/functions/shortcodes.php:2966
+#: ../porto/inc/functions/shortcodes.php:2982
+#: ../porto/inc/functions/shortcodes.php:3037
+msgid "Large"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2902
+msgid "h1"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2903
+msgid "h2"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2904
+msgid "h3"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2905
+msgid "h4"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2906
+msgid "h5"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2907
+msgid "h6"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2908
+msgid "p"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2909
+msgid "div"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2916
+msgid "Modern"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2917
+msgid "Modern Without Background"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2918
+msgid "Without Background"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2919
+msgid "Without Borders and Background"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2920
+msgid "Custom"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2947
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1063
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:769
+msgid "Success"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2948
+msgid "Info"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2949
+msgid "Warning"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2950
+msgid "Danger"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2957
+msgid "No Border Radius"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2958
+msgid "Rounded Border Radius"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2972
+msgid "Show Title and Value"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2973
+msgid "Show Only Icon"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2974
+msgid "Show Only Title"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:2989
+msgid "Transparent"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3002
+msgid "Scale 1"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3004
+msgid "Scale 3"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3005
+msgid "Scale 4"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3006
+msgid "Scale 5"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3007
+msgid "Scale 6"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3008
+msgid "Scale 7"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3009
+msgid "Scale 8"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3010
+msgid "Scale 9"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3024
+msgid "Bottom Border"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3025
+msgid "Bottom Double Border"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3026
+msgid "Middle Border"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3027
+msgid "Middle Border Reverse"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3028
+msgid "Middle Border Center"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3035
+msgid "Extra Small"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3048
+msgid "Porto"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3049
+msgid " with porto style"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3052
+msgid "Porto Tabs"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3053
+msgid "Porto Tab"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3057
+msgid "Porto Tour"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3061
+msgid "Porto Accordion"
+msgstr ""
+
+#: ../porto/inc/functions/shortcodes.php:3063
+msgid "Accordion Section"
+msgstr ""
+
+#: ../porto/inc/functions/post.php:202
+msgid "read more"
+msgstr ""
+
+#: ../porto/inc/functions/post.php:278
+#: ../porto/woocommerce/myaccount/my-address.php:68
+msgid "Edit"
+msgstr ""
+
+#: ../porto/inc/functions/post.php:285
+msgid "Reply"
+msgstr ""
+
+#: ../porto/inc/functions/post.php:298
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../porto/inc/functions/post.php:304
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../porto/inc/functions/post.php:385
+msgid "HOT"
+msgstr ""
+
+#: ../porto/inc/functions/post.php:419
+#: ../porto/woocommerce/loop/pagination.php:79
+msgid "Load More..."
+msgstr ""
+
+#: ../porto/inc/functions/post.php:419
+msgid "Next&nbsp;&nbsp;<i class=\"fas fa-long-arrow-alt-right\"></i>"
+msgstr ""
+
+#: ../porto/inc/functions/post.php:431
+msgid "<i class=\"fas fa-long-arrow-alt-left\"></i>&nbsp;&nbsp;Prev"
+msgstr ""
+
+#: ../porto/inc/functions/post.php:478
+msgid "LEAVE A COMMENT"
+msgstr ""
+
+#: ../porto/inc/functions/post.php:479
+msgid "Message"
+msgstr ""
+
+#: ../porto/inc/functions/post.php:480
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: ../porto/inc/functions/post.php:486
+#: ../porto/inc/functions/content_type/meta_values.php:148
+msgid "Name"
+msgstr ""
+
+#: ../porto/inc/functions/post.php:488
+msgid "Subject"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:10
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:21
+msgid "Home Sidebar"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:32
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:46
+msgid "Woo Category Sidebar"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:57
+msgid "Woo Category Filter"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:68
+msgid "Woo Product Sidebar"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:81
+msgid "Content Bottom Widget 1"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:92
+msgid "Content Bottom Widget 2"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:103
+msgid "Content Bottom Widget 3"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:114
+msgid "Content Bottom Widget 4"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:125
+msgid "Footer Top Widget"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:136
+msgid "Footer Widget 1"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:147
+msgid "Footer Widget 2"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:158
+msgid "Footer Widget 3"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:169
+msgid "Footer Widget 4"
+msgstr ""
+
+#: ../porto/inc/functions/widgets.php:180
+msgid "Footer Bottom Widget"
+msgstr ""
+
+#. $1: opening A tag which has link to the FontAwesome icons page $2: closing A tag
+#: ../porto/inc/menu/menu.php:243
+#, php-format
+msgid ""
+"Input font awesome icon or icon class. You can see %1$sFont Awesome Icons in "
+"here%2$s. For example: fas fa-user"
+msgstr ""
+
+#: ../porto/inc/admin/admin.php:43 ../porto/inc/admin/admin.php:46
+#: ../porto/inc/admin/admin.php:89 ../porto/inc/admin/admin.php:89
+#: ../porto/inc/admin/admin.php:92 ../porto/inc/admin/admin.php:92
+#: ../porto/inc/admin/admin_pages/welcome.php:17
+#: ../porto/inc/admin/admin_pages/changelog.php:14
+msgid "Theme Options"
+msgstr ""
+
+#: ../porto/inc/admin/admin.php:44 ../porto/inc/admin/admin.php:90
+#: ../porto/inc/admin/admin.php:90
+msgid "Advanced Options"
+msgstr ""
+
+#: ../porto/inc/admin/admin.php:48 ../porto/inc/admin/admin.php:86
+#: ../porto/inc/admin/admin_pages/welcome.php:15
+#: ../porto/inc/admin/admin_pages/changelog.php:12
+msgid "Theme License"
+msgstr ""
+
+#: ../porto/inc/admin/admin.php:49 ../porto/inc/admin/admin.php:87
+#: ../porto/inc/admin/admin.php:87
+#: ../porto/inc/admin/admin_pages/welcome.php:16
+#: ../porto/inc/admin/admin_pages/changelog.php:13
+msgid "Change Log"
+msgstr ""
+
+#: ../porto/inc/admin/admin.php:50
+#: ../porto/inc/admin/admin_pages/welcome.php:19
+#: ../porto/inc/admin/admin_pages/changelog.php:16
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:605
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:605
+msgid "Setup Wizard"
+msgstr ""
+
+#: ../porto/inc/admin/admin.php:51
+#: ../porto/inc/admin/admin_pages/welcome.php:20
+#: ../porto/inc/admin/admin_pages/changelog.php:17
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:98
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:98
+msgid "Speed Optimize Wizard"
+msgstr ""
+
+#: ../porto/inc/admin/admin.php:86
+msgid "Theme license"
+msgstr ""
+
+#: ../porto/inc/admin/admin.php:257
+msgid ""
+"Please <a href=\"admin.php?page=porto\">register</a> Porto theme to get "
+"access to pre-built demo websites and auto updates."
+msgstr ""
+
+#: ../porto/inc/admin/admin.php:264
+msgid "Purchase Code is not valid or could not connect to the API server!"
+msgstr ""
+
+#: ../porto/inc/admin/admin.php:281
+msgid "View Details"
+msgstr ""
+
+#: ../porto/inc/admin/admin.php:348
+msgid ""
+"Sorry, it could not connect to the Porto API server. Please try again later."
+msgstr ""
+
+#: ../porto/inc/admin/admin.php:367
+msgid "Dismiss this notice."
+msgstr ""
+
+#: ../porto/inc/admin/functions.php:798
+msgid "1 column - 1/12"
+msgstr ""
+
+#: ../porto/inc/admin/functions.php:799
+msgid "2 columns - 1/6"
+msgstr ""
+
+#: ../porto/inc/admin/functions.php:800
+msgid "3 columns - 1/4"
+msgstr ""
+
+#: ../porto/inc/admin/functions.php:801
+msgid "4 columns - 1/3"
+msgstr ""
+
+#: ../porto/inc/admin/functions.php:802
+msgid "5 columns - 5/12"
+msgstr ""
+
+#: ../porto/inc/admin/functions.php:803
+msgid "6 columns - 1/2"
+msgstr ""
+
+#: ../porto/inc/admin/functions.php:804
+msgid "7 columns - 7/12"
+msgstr ""
+
+#: ../porto/inc/admin/functions.php:805
+msgid "8 columns - 2/3"
+msgstr ""
+
+#: ../porto/inc/admin/functions.php:806
+msgid "9 columns - 3/4"
+msgstr ""
+
+#: ../porto/inc/admin/functions.php:807
+msgid "10 columns - 5/6"
+msgstr ""
+
+#: ../porto/inc/admin/functions.php:808
+msgid "11 columns - 11/12)"
+msgstr ""
+
+#: ../porto/inc/admin/functions.php:809
+msgid "12 columns - 1/1"
+msgstr ""
+
+#: ../porto/views/portfolios/meta.php:17
+#, php-format
+msgid "%s <strong>Details</strong>"
+msgstr ""
+
+#: ../porto/views/portfolios/meta.php:24
+msgid "Client"
+msgstr ""
+
+#: ../porto/views/portfolios/meta.php:38
+msgid "Skills"
+msgstr ""
+
+#: ../porto/views/portfolios/meta.php:46
+msgid "Location"
+msgstr ""
+
+#: ../porto/views/portfolios/meta.php:54
+#, php-format
+msgid "%s URL"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-shipping.php:31
+msgid "ESTIMATE SHIPPING AND TAX"
+msgstr ""
+
+#: ../porto/woocommerce/cart/proceed-to-checkout-button.php:27
+#: ../porto/woocommerce/cart/cart-totals-v2.php:85
+msgid "Proceed to checkout"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-v1.php:21
+#: ../porto/woocommerce/cart/cart-v2.php:29
+#: ../porto/woocommerce/checkout/form-pay.php:22
+msgid "Qty"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-v1.php:22
+#: ../porto/woocommerce/cart/cart-totals-v2.php:24
+#: ../porto/woocommerce/cart/cart-totals-v1.php:20
+#: ../porto/woocommerce/cart/cart-v2.php:30
+#: ../porto/woocommerce/checkout/review-order.php:49
+msgid "Subtotal"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-v1.php:41
+#: ../porto/woocommerce/cart/cart-v2.php:50
+msgid "Remove this item"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-v1.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-v1.php:115
+msgid "Coupon:"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-v1.php:115
+#: ../porto/woocommerce/checkout/form-coupon.php:46
+msgid "Coupon code"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-v1.php:115
+#: ../porto/woocommerce/checkout/form-coupon.php:50
+#: ../porto/woocommerce/checkout/form-coupon.php:50
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-v1.php:120
+#: ../porto/woocommerce/cart/cart-v2.php:152
+#: ../porto/woocommerce/cart/cart-v2.php:152
+msgid "Update Cart"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-totals-v2.php:19
+msgid "CART TOTALS"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-totals-v2.php:49
+#: ../porto/woocommerce/cart/cart-totals-v1.php:52
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-totals-v2.php:68
+msgid "Grand Total"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-totals-v2.php:78
+#: ../porto/woocommerce/cart/cart-totals-v1.php:79
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-totals-v2.php:80
+#: ../porto/woocommerce/cart/cart-totals-v1.php:81
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../porto/woocommerce/cart/shipping-calculator.php:83
+#: ../porto/woocommerce/checkout/payment.php:48
+#: ../porto/woocommerce/checkout/payment.php:48
+msgid "Update totals"
+msgstr ""
+
+#: ../porto/woocommerce/cart/mini-cart.php:28
+#, php-format
+msgid "%d ITEM"
+msgid_plural "%d ITEMS"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/woocommerce/cart/mini-cart.php:29
+msgid "VIEW CART"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-totals-v1.php:17
+msgid "Cart Totals"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-totals-v1.php:38
+msgid "Shipping"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-totals-v1.php:70
+#: ../porto/woocommerce/checkout/review-order.php:17
+#: ../porto/woocommerce/myaccount/my-orders.php:23
+msgid "Total"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-v2.php:12
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-v2.php:13
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-v2.php:126
+#: ../porto/woocommerce/checkout/form-coupon.php:27
+msgid "DISCOUNT CODE"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-v2.php:131
+msgid "Enter your coupon code if you have one:"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cart-v2.php:151
+msgid "Continue Shopping"
+msgstr ""
+
+#: ../porto/woocommerce/cart/cross-sells.php:18
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../porto/woocommerce/checkout/form-checkout.php:18
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../porto/woocommerce/checkout/form-checkout-v2.php:45
+msgid "Order Review"
+msgstr ""
+
+#: ../porto/woocommerce/checkout/form-pay.php:21
+#: ../porto/woocommerce/checkout/review-order.php:16
+msgid "Product"
+msgstr ""
+
+#: ../porto/woocommerce/checkout/form-pay.php:23
+msgid "Totals"
+msgstr ""
+
+#: ../porto/woocommerce/checkout/form-pay.php:89
+#: ../porto/woocommerce/checkout/form-pay.php:99
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../porto/woocommerce/checkout/form-pay.php:110
+msgid "Pay for order"
+msgstr ""
+
+#: ../porto/woocommerce/checkout/form-billing.php:26
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../porto/woocommerce/checkout/form-billing.php:30
+msgid "Billing details"
+msgstr ""
+
+#: ../porto/woocommerce/checkout/form-billing.php:58
+msgid "Create an account?"
+msgstr ""
+
+#: ../porto/woocommerce/checkout/form-login.php:40
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: ../porto/woocommerce/checkout/form-checkout-v1.php:48
+msgid "Your order"
+msgstr ""
+
+#: ../porto/woocommerce/checkout/payment.php:28
+msgid "Payment Methods"
+msgstr ""
+
+#: ../porto/woocommerce/checkout/payment.php:39
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../porto/woocommerce/checkout/payment.php:39
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: ../porto/woocommerce/checkout/payment.php:47
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: ../porto/woocommerce/checkout/payment.php:58
+msgid "Grand Total:"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/lost-password-confirmation.php:17
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-lost-password.php:25
+#: ../porto/woocommerce/myaccount/form-lost-password.php:49
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-lost-password.php:28
+#: ../porto/woocommerce/myaccount/form-lost-password.php:51
+#: ../porto/woocommerce/global/form-login.php:30
+msgid "Username or email"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-lost-password.php:38
+#: ../porto/woocommerce/myaccount/form-lost-password.php:78
+#: ../porto/woocommerce/myaccount/form-reset-password.php:36
+msgid "Click here to login"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-lost-password.php:41
+#: ../porto/woocommerce/myaccount/form-lost-password.php:81
+msgid "Reset Password"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-lost-password.php:55
+#: ../porto/woocommerce/myaccount/form-reset-password.php:16
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-lost-password.php:58
+#: ../porto/woocommerce/myaccount/form-reset-password.php:19
+msgid "New password"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-lost-password.php:63
+#: ../porto/woocommerce/myaccount/form-reset-password.php:24
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-downloads.php:22
+msgid "Available Downloads"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/view-order.php:27
+#: ../porto/woocommerce/myaccount/view-order.php:36
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/view-order.php:49
+#: ../porto/woocommerce/order/tracking.php:35
+msgid "Order Updates"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/view-order.php:56
+#: ../porto/woocommerce/order/tracking.php:41
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-add-payment-method.php:60
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-register.php:26
+#: ../porto/woocommerce/myaccount/form-register-2.php:28
+msgid "Username"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-register.php:33
+#: ../porto/woocommerce/myaccount/form-edit-account.php:41
+#: ../porto/woocommerce/myaccount/form-register-2.php:35
+msgid "Email address"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-register.php:40
+#: ../porto/woocommerce/myaccount/form-register-2.php:44
+#: ../porto/woocommerce/global/form-login.php:35
+msgid "Password"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-register.php:45
+#: ../porto/woocommerce/myaccount/form-register-2.php:49
+msgid "Confirm Password"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-edit-account.php:25
+msgid "First name"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-edit-account.php:29
+msgid "Last name"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-edit-account.php:46
+msgid "Password Change"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-edit-account.php:49
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-edit-account.php:54
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-edit-account.php:59
+msgid "Confirm New Password"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-edit-account.php:69
+msgid "Save changes"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-orders.php:20
+msgid "Order"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-orders.php:21
+msgid "Date"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-orders.php:22
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:625
+msgid "Status"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-orders.php:46
+msgid "Recent Orders"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-orders.php:74
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-orders.php:81
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../porto/woocommerce/myaccount/my-orders.php:87
+#: ../porto/woocommerce/myaccount/orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-orders.php:91
+#: ../porto/woocommerce/myaccount/orders.php:72
+msgid "View"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-edit-address.php:10
+msgid "Billing Address"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-edit-address.php:10
+msgid "Shipping Address"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-edit-address.php:51
+msgid "Save Address"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/orders.php:123
+msgid "No order has been made yet."
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/orders.php:125
+msgid "Go Shop"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/downloads.php:66
+msgid "Never"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/downloads.php:76
+msgid "Download"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/downloads.php:104
+msgid "Go shop"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-register-2.php:19
+msgid "PERSONAL INFORMATION"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-register-2.php:39
+msgid "LOGIN INFORMATION"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-register-2.php:57
+msgid "Anti-spam"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-register-2.php:63
+msgid "* Required Fields"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/form-register-2.php:70
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:482
+#: ../porto/inc/plugins/importer/wordpress-importer.php:372
+#: ../porto/inc/admin/admin_pages/welcome.php:64
+msgid "Submit"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-address.php:24
+msgid "My Addresses"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-address.php:28
+#: ../porto/woocommerce/myaccount/my-address.php:38
+msgid "Billing address"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-address.php:29
+msgid "Shipping address"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-address.php:34
+msgid "My Address"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-address.php:55
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/payment-methods.php:43
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/payment-methods.php:62
+msgid "No saved methods found."
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/payment-methods.php:67
+msgid "Add Payment Method"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/login-social.php:25
+msgid "Access your account through your social networks:"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/login-social.php:38
+msgid "Google"
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-account.php:49
+#, php-format
+msgid "Hello %1$s (not %2$s? %3$sSign out%4$s)."
+msgstr ""
+
+#: ../porto/woocommerce/myaccount/my-account.php:58
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and %1$sedit your password and account "
+"details%2$s."
+msgstr ""
+
+#: ../porto/woocommerce/global/form-login.php:48
+msgid "Remember me"
+msgstr ""
+
+#: ../porto/woocommerce/global/form-login.php:52
+msgid "Lost your password?"
+msgstr ""
+
+#: ../porto/woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../porto/woocommerce/loop/add-to-cart.php:116
+#: ../porto/woocommerce/loop/add-to-cart.php:123
+msgid "Quick View"
+msgstr ""
+
+#: ../porto/woocommerce/loop/orderby.php:15
+msgid "Sort By"
+msgstr ""
+
+#: ../porto/woocommerce/loop/sale-flash.php:18
+#: ../porto/woocommerce/single-product/sale-flash.php:18
+msgid "Hot"
+msgstr ""
+
+#: ../porto/woocommerce/loop/sale-flash.php:31
+#: ../porto/woocommerce/single-product/sale-flash.php:30
+msgid "Sale"
+msgstr ""
+
+#: ../porto/woocommerce/loop/sale-flash.php:48
+msgctxt "Ver Carrito"
+msgid "View Cart"
+msgstr ""
+
+#: ../porto/woocommerce/loop/pagination.php:27
+msgid "Show"
+msgstr ""
+
+#: ../porto/woocommerce/single-product/product-attributes.php:16
+msgid "Weight"
+msgstr ""
+
+#: ../porto/woocommerce/single-product/product-attributes.php:23
+msgid "Dimensions"
+msgstr ""
+
+#: ../porto/woocommerce/single-product/related.php:56
+msgid "Related Products"
+msgstr ""
+
+#: ../porto/woocommerce/order/tracking.php:13
+#, php-format
+msgid "Order #%1$s which was made %2$s has the status &ldquo;%3$s&rdquo;"
+msgstr ""
+
+#: ../porto/woocommerce/order/tracking.php:13
+msgid "ago"
+msgstr ""
+
+#: ../porto/woocommerce/order/tracking.php:16
+msgid "and was completed"
+msgstr ""
+
+#: ../porto/woocommerce/order/tracking.php:16
+msgid " ago"
+msgstr ""
+
+#: ../porto/woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: ../porto/woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: ../porto/woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: ../porto/woocommerce/order/form-tracking.php:20
+msgid "Billing email"
+msgstr ""
+
+#: ../porto/woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/parsers.php:45
+#: ../porto/inc/plugins/importer/parsers.php:93
+#: ../porto/inc/plugins/importer/parsers.php:101
+#: ../porto/inc/plugins/importer/porto-parsers.php:46
+#: ../porto/inc/plugins/importer/porto-parsers.php:96
+#: ../porto/inc/plugins/importer/porto-parsers.php:104
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/parsers.php:46
+#: ../porto/inc/plugins/importer/porto-parsers.php:47
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/parsers.php:106
+#: ../porto/inc/plugins/importer/parsers.php:112
+#: ../porto/inc/plugins/importer/parsers.php:385
+#: ../porto/inc/plugins/importer/parsers.php:602
+#: ../porto/inc/plugins/importer/porto-parsers.php:109
+#: ../porto/inc/plugins/importer/porto-parsers.php:115
+#: ../porto/inc/plugins/importer/porto-parsers.php:390
+#: ../porto/inc/plugins/importer/porto-parsers.php:611
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/parsers.php:543
+#: ../porto/inc/plugins/importer/porto-parsers.php:550
+msgid "GZ Not Enabled"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:216
+msgid "Imported categories"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:221
+msgid "Imported tags"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:226
+msgid "Imported terms"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:232
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1758
+msgid "Imported posts"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:238
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1685
+msgid "Importing posts"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:247
+msgid "Importing menus"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:253
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:261
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:266
+msgid "Processing menus"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:273
+msgid "Successfully imported dummy content!"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:320
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:329
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:388
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:392
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:402
+#: ../porto/inc/plugins/importer/wordpress-importer.php:204
+#: ../porto/inc/plugins/importer/wordpress-importer.php:213
+#: ../porto/inc/plugins/importer/wordpress-importer.php:275
+#: ../porto/inc/plugins/importer/wordpress-importer.php:279
+#: ../porto/inc/plugins/importer/wordpress-importer.php:289
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:321
+#: ../porto/inc/plugins/importer/wordpress-importer.php:205
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:394
+#, php-format
+msgid ""
+"The export file could not be found at %s. It is likely that this was caused "
+"by a permissions problem."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:410
+#: ../porto/inc/plugins/importer/wordpress-importer.php:298
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:435
+#: ../porto/inc/plugins/importer/wordpress-importer.php:324
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:462
+#: ../porto/inc/plugins/importer/wordpress-importer.php:351
+msgid "Assign Authors"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:463
+#: ../porto/inc/plugins/importer/wordpress-importer.php:352
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:465
+#: ../porto/inc/plugins/importer/wordpress-importer.php:355
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:475
+#: ../porto/inc/plugins/importer/wordpress-importer.php:365
+msgid "Import Attachments"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:478
+#: ../porto/inc/plugins/importer/wordpress-importer.php:368
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:495
+#: ../porto/inc/plugins/importer/wordpress-importer.php:385
+msgid "Import author:"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:509
+#: ../porto/inc/plugins/importer/wordpress-importer.php:399
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:512
+#: ../porto/inc/plugins/importer/wordpress-importer.php:402
+msgid "as a new user:"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:520
+#: ../porto/inc/plugins/importer/wordpress-importer.php:410
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:522
+#: ../porto/inc/plugins/importer/wordpress-importer.php:412
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:528
+#: ../porto/inc/plugins/importer/wordpress-importer.php:418
+msgid "- Select -"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:587
+#: ../porto/inc/plugins/importer/wordpress-importer.php:478
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:654
+#: ../porto/inc/plugins/importer/wordpress-importer.php:545
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:707
+#: ../porto/inc/plugins/importer/wordpress-importer.php:598
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:778
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:1114
+#: ../porto/inc/plugins/importer/wordpress-importer.php:667
+#: ../porto/inc/plugins/importer/wordpress-importer.php:1001
+#, php-format
+msgid "Failed to import %1$s %2$s"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:879
+#: ../porto/inc/plugins/importer/wordpress-importer.php:759
+#, php-format
+msgid "Failed to import &#8220;%1$s&#8221;: Invalid post type %2$s"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:972
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:1073
+#: ../porto/inc/plugins/importer/wordpress-importer.php:859
+#: ../porto/inc/plugins/importer/wordpress-importer.php:962
+#, php-format
+msgid "Failed to import %1$s &#8220;%2$s&#8221;"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:1258
+#: ../porto/inc/plugins/importer/wordpress-importer.php:1144
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:1265
+#: ../porto/inc/plugins/importer/wordpress-importer.php:1151
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:1359
+#: ../porto/inc/plugins/importer/wordpress-importer.php:1245
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:1376
+#: ../porto/inc/plugins/importer/wordpress-importer.php:1262
+msgid "Invalid file type"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:1438
+#: ../porto/inc/plugins/importer/wordpress-importer.php:1325
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:1445
+#: ../porto/inc/plugins/importer/wordpress-importer.php:1332
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:1463
+#: ../porto/inc/plugins/importer/wordpress-importer.php:1351
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:1580
+#: ../porto/inc/plugins/importer/wordpress-importer.php:1458
+msgid "Import WordPress"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:1587
+#: ../porto/inc/plugins/importer/wordpress-importer.php:1466
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:1602
+#: ../porto/inc/plugins/importer/wordpress-importer.php:1481
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/porto-wordpress-importer.php:1603
+#: ../porto/inc/plugins/importer/wordpress-importer.php:1482
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/wordpress-importer.php:259
+msgid "All done."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/wordpress-importer.php:259
+msgid "Have fun!"
+msgstr ""
+
+#: ../porto/inc/plugins/importer/wordpress-importer.php:260
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/wordpress-importer.php:281
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/wordpress-importer.php:809
+#, php-format
+msgid "%1$s &#8220;%2$s&#8221; already exists."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/importer-api.php:139
+msgid "The package could not be downloaded."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/importer-api.php:165
+msgid "WordPress filesystem error."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/importer-api.php:172
+msgid "The package could not be unziped."
+msgstr ""
+
+#: ../porto/inc/plugins/importer/importer-api.php:176
+#, php-format
+msgid "Demo data directory does not exist (%s)."
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:11
+msgid "Before Header"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:12
+msgid "Behind Header"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:13
+#: ../porto/inc/functions/content_type/meta_values.php:34
+msgid "Fixed"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:22
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:118
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:23
+msgid "Master Slider"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:24
+msgid "Banner Block"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:44
+msgid "Simple and Fixed"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:136
+msgid "Grid"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:137
+msgid "List"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:147
+msgid "ID"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:149
+msgid "Slug"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:150
+msgid "Count"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:159
+msgid "Asc"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:160
+msgid "Desc"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:169
+msgid "In Content"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:170
+msgid "In Breadcrumbs"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:171
+msgid "In Sidebar"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/meta_values.php:172
+msgid "Hide"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/portfolio_like.php:18
+#: ../porto/inc/functions/content_type/blog_like.php:22
+msgid "Already Liked"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/portfolio_like.php:32
+#: ../porto/inc/functions/content_type/blog_like.php:36
+msgid "Already liked"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/portfolio_like.php:34
+#: ../porto/inc/functions/content_type/blog_like.php:38
+#: ../porto/inc/functions/content_type/blog_like.php:38
+msgid "Like"
+msgstr ""
+
+#: ../porto/inc/functions/content_type/blog_like.php:22
+#: ../porto/inc/functions/content_type/blog_like.php:36
+msgid "Liked"
+msgstr ""
+
+#: ../porto/inc/functions/layout/breadcrumbs.php:40
+msgid "Home"
+msgstr ""
+
+#: ../porto/inc/functions/layout/breadcrumbs.php:86
+#: ../porto/inc/functions/layout/page-title.php:63
+#, php-format
+msgid "Tag - %s"
+msgstr ""
+
+#: ../porto/inc/functions/layout/breadcrumbs.php:89
+#: ../porto/inc/functions/layout/page-title.php:66
+#, php-format
+msgid "Product Tag - %s"
+msgstr ""
+
+#: ../porto/inc/functions/layout/breadcrumbs.php:192
+msgid "Go to Home Page"
+msgstr ""
+
+#: ../porto/inc/functions/layout/breadcrumbs.php:264
+#: ../porto/inc/functions/layout/breadcrumbs.php:271
+#, php-format
+msgid "Search - %s"
+msgstr ""
+
+#: ../porto/inc/functions/layout/page-title.php:173
+#, php-format
+msgid "Yearly Archives - %s"
+msgstr ""
+
+#: ../porto/inc/functions/layout/page-title.php:173
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../porto/inc/functions/layout/page-title.php:177
+#, php-format
+msgid "Monthly Archives - %s"
+msgstr ""
+
+#: ../porto/inc/functions/layout/page-title.php:177
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../porto/inc/functions/layout/page-title.php:181
+#, php-format
+msgid "Daily Archives - %s"
+msgstr ""
+
+#: ../porto/inc/functions/layout/page-title.php:186
+#, php-format
+msgid "Author - %s"
+msgstr ""
+
+#: ../porto/inc/functions/layout/page-title.php:190
+#: ../porto/inc/functions/layout/page-title.php:197
+#, php-format
+msgid "Search Results - %s"
+msgstr ""
+
+#: ../porto/inc/functions/layout/page-title.php:193
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: ../porto/inc/lib/porto-studio/porto-studio.php:31
+msgid "Porto Studio"
+msgstr ""
+
+#: ../porto/inc/lib/porto-studio/porto-studio.php:32
+msgid "Pre-defined templates for Porto theme"
+msgstr ""
+
+#: ../porto/inc/lib/porto-studio/porto-studio.php:61
+msgid "Security issue found! Please try again later."
+msgstr ""
+
+#: ../porto/inc/lib/porto-studio/porto-studio.php:134
+msgid "Could not connect to the API Server! Please try again later."
+msgstr ""
+
+#: ../porto/inc/lib/porto-studio/blocks.tpl.php:27
+msgid "Import"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:10
+#: ../porto/inc/admin/admin_pages/changelog.php:7
+msgid "Welcome to Porto!"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:11
+#: ../porto/inc/admin/admin_pages/changelog.php:8
+msgid ""
+"Porto is now installed and ready to use! Read below for additional "
+"information. We hope you enjoy it!"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:12
+#: ../porto/inc/admin/admin_pages/changelog.php:9
+msgid "Version"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:18
+#: ../porto/inc/admin/admin_pages/changelog.php:15
+msgid "Advanced"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:28
+msgid "Congratulations! Your product is registered now."
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:30
+msgid "Please enter your Purchase Code to complete registration."
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:61
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1405
+msgid "Deactivate"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:73
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1384
+msgid "Where can I find my purchase code?"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:76
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1387
+#, php-format
+msgid "Please go to %1$sThemeForest.net/downloads%2$s"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:78
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1389
+#, php-format
+msgid "Click the %1$sDownload%2$s button in Porto row"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:80
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1391
+#, php-format
+msgid "Select %1$sLicense Certificate &amp; Purchase code%2$s"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:82
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1393
+#, php-format
+msgid "Copy %1$sItem Purchase Code%2$s"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:88
+#, php-format
+msgid ""
+"Before you get started, please be sure to always check out %1$sthis "
+"documentation%2$s. We outline all kinds of good information, and provide you "
+"with all the details you need to use Porto."
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:92
+#, php-format
+msgid ""
+"If you are unable to find your answer in our documentation, we encourage you "
+"to contact us through %1$ssupport page%2$s with your site CPanel (or FTP) "
+"and WordPress admin details. We are very happy to help you and you will get "
+"reply from us more faster than you expected."
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:95
+msgid "Click here to view change logs."
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:99
+#: ../porto/inc/admin/admin_pages/changelog.php:32
+msgid "Thank you, we hope you to enjoy using Porto!"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/welcome.php:103
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:846
+msgid "System Status"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/mini-status.php:39
+msgid "Uploads folder writable"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/mini-status.php:49
+msgid "WP File System"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/mini-status.php:59
+msgid "ZipArchive"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/mini-status.php:71
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/mini-status.php:79
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/mini-status.php:103
+msgid "PHP max_execution_time"
+msgstr ""
+
+#: ../porto/inc/admin/admin_pages/mini-status.php:127
+msgid "PHP max_input_vars"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:36
+msgid "Logo"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:37
+msgid "Mini Cart"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:38
+msgid "☰ Mobile Menu Icon"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:41
+msgid "Top Menu"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:42
+msgid "Custom Menu"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:43
+msgid "Search Form"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:44
+msgid "Social Icons"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:45
+msgid "Contact"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:47
+msgid "Language Switcher"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:48
+msgid "Porto Block"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:49
+#: ../porto/inc/admin/customizer/header-builder.php:409
+msgid "HTML"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:50
+msgid "Row"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:51
+msgid " | "
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:56
+msgid "Header Top Left"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:57
+msgid "Header Top Center"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:58
+msgid "Header Top Right"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:59
+msgid "Header Main Left"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:60
+msgid "Header Main Center"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:61
+msgid "Header Main Right"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:62
+msgid "Header Bottom Left"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:63
+msgid "Header Bottom Center"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:64
+msgid "Header Bottom Right"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:65
+msgid "Mobile Header Top Left"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:66
+msgid "Mobile Header Top Center"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:67
+msgid "Mobile Header Top Right"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:68
+msgid "Mobile Header Main Left"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:69
+msgid "Mobile Header Main Center"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:70
+msgid "Mobile Header Main Right"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:71
+msgid "Mobile Header Bottom Left"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:72
+msgid "Mobile Header Bottom Center"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:73
+msgid "Mobile Header Bottom Right"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:98
+#: ../porto/inc/admin/customizer/header-builder.php:108
+#: ../porto/inc/admin/customizer/header-builder.php:637
+msgid "Header Builder"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:152
+msgid "Select Header Layout..."
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:157
+msgid "Select a header layout to edit:"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:177
+msgid "Create a new header layout"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:187
+msgid "Header Type Title"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:201
+msgid "Add Header Layout"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:220
+msgid "Delete header layout"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:227
+msgid "Header Presets"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:253
+msgid "Preset"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:297
+msgid "Side Header"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:317
+msgid "Side Header Toggle"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:321
+msgid "No Toggle"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:322
+msgid "In Side Bar"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:323
+msgid "In Top Bar"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:342
+msgid "Upload a Logo in Toggle bar"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:362
+msgid "Description in Toggle bar"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:381
+msgid "Side Header Width (px)"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:399
+msgid "Select a block"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:421
+msgid "Note: You need to click Save button below to make changes."
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:445
+msgid "Additional CSS"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:457
+msgid "Header Builder Elements"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:643
+msgid "Tutorial"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:644
+msgid "Clear All"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:650
+#: ../porto/inc/admin/customizer/header-builder.php:710
+msgid "Elements"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:650
+#: ../porto/inc/admin/customizer/header-builder.php:710
+msgid "Drag &amp; Drop"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:680
+msgid "Header Top"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:689
+#: ../porto/inc/admin/customizer/header-builder.php:740
+#: ../porto/inc/admin/customizer/header-builder.php:749
+msgid "Header Main"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/header-builder.php:698
+#: ../porto/inc/admin/customizer/header-builder.php:758
+msgid "Header Bottom"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/customizer-reset.php:29
+msgid "Reset Options"
+msgstr ""
+
+#: ../porto/inc/admin/customizer/customizer-reset.php:31
+msgid "Click reset button to reset all options to default values."
+msgstr ""
+
+#: ../porto/inc/admin/customizer/customizer-reset.php:42
+msgid "Reset Theme Options"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:555
+msgid "Theme &rsaquo; Setup Wizard"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:612
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:105
+msgid "Welcome"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:619
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1399
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:667
+msgid "Activate"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:631
+msgid "Child Theme"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:638
+msgid "Plugins"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:644
+msgid "Demo Content"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:649
+msgid "Support"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:654
+msgid "Ready!"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:754
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:245
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:815
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:826
+#, php-format
+msgid "Welcome to the setup wizard for %s."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:816
+msgid "It looks like you already have setup Porto."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:819
+msgid "Run Setup Wizard Again"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:820
+msgid "Exit to Porto Panel"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:828
+#, php-format
+msgid ""
+"Thank you for choosing the %s theme. This quick setup wizard will help you "
+"configure your new website. This wizard will install the required WordPress "
+"plugins, demo content, logo, etc."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:829
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:307
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:831
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:309
+msgid "Let's Go!"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:832
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:310
+msgid "Not right now"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:925
+msgid "Default Plugins"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:932
+msgid "This will install the default plugins which is used in Porto."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:933
+msgid "Please check the plugins to install."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:943
+msgid "Load more plugins fully compatible with Porto"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:954
+msgid "Installation"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:956
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:665
+msgid "Update"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:958
+msgid "Activation"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:963
+#, php-format
+msgid "%s required"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:966
+#, php-format
+msgid "%s recommended for certain demos"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:981
+msgid ""
+"Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:999
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:705
+msgid "No Slug Found"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1020
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:726
+msgid "Activating Plugin"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1035
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:741
+msgid "Updating Plugin"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1050
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:756
+msgid "Installing Plugin"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1144
+msgid "Demo Install"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1145
+msgid "Upload Logo"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1176
+msgid "Upload New Logo"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1185
+msgid "Select Demo"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1209
+msgid "Demo"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1211
+msgid "Details"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1217
+msgid "Import theme options"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1219
+msgid "Reset menus"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1220
+msgid "Reset widgets"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1221
+msgid "Import dummy content"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1222
+msgid "Import widgets"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1223
+msgid "Import icons for ultimate addons plugin"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1224
+msgid "Import Element pages"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1225
+msgid "Override existing contents"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1227
+msgid "Do you want to install demo? It can also take a minute to complete."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1228
+msgid "Standard Import"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1230
+msgid ""
+"Your server performance does not satisfy Porto demo importer engine's "
+"requirement. We recommend you to use alternative method to perform demo "
+"import without any issues but it may take much time than standard import."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1232
+msgid ""
+"If you have any issues with standard import, please use Alternative mode. "
+"But it may take much time than standard import."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1234
+msgid "Alternative Mode"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1238
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1351
+msgid "Activate Theme"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1283
+#, php-format
+msgid ""
+"Demo sliders %1$swill not%2$s be installed if Revolution Slider is not "
+"active."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1290
+#, php-format
+msgid "Please go to %1$sPlugins step%2$s and install required plugins."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1299
+msgid ""
+"Installing a demo provides pages, posts, menus, images, theme options, "
+"widgets and more."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1300
+msgid ""
+"IMPORTANT: The included plugins need to be installed and activated before "
+"you install a demo."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1302
+#, php-format
+msgid ""
+"Please check the %1$sStatus%2$s step to ensure your server meets all "
+"requirements for a successful import. Settings that need attention will be "
+"listed in red."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1303
+msgid ""
+"If you want to install demo later or don't want it, you can skip this step"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1354
+msgid "You are using Envato Hosted."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1374
+msgid "Purchase code not updated. We will keep the existing one."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1377
+#, php-format
+msgid ""
+"Your %1$spurchase code is valid%2$s. Thank you! Enjoy Porto Theme and "
+"automatic updates."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1400
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1455
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:355
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:463
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:530
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:619
+msgid "Skip this step"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1405
+msgid "Next Step"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1418
+msgid "Setup Porto Child Theme (Optional)"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1423
+msgid ""
+"If you are going to make changes to the theme source code please use a <a "
+"href=\"https://codex.wordpress.org/Child_Themes\" target=\"_blank\">Child "
+"Theme</a> rather than modifying the main theme HTML/CSS/PHP code. This "
+"allows the parent theme to receive updates without overwriting your source "
+"code changes. Use the form below to create and activate the Child Theme."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1435
+msgid ""
+"If you're not sure what a Child Theme is just click the \"Skip this step\" "
+"button."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1450
+msgid "Child Theme Title"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1454
+msgid "Create and Use Child Theme"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1468
+msgid "Help and Support"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1488
+msgid "Agree and Continue"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1502
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1509
+msgid "Next Steps"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1514
+msgid "Setup WooCommerce (optional)"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1515
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:694
+msgid "View your new website!"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1519
+msgid "More Resources"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1521
+msgid "Porto Documentation"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1522
+msgid "Learn how to use WooCommerce"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1523
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1524
+msgid "Leave an Item Rating"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1545
+msgid "Remote API error."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1617
+msgid "Successfully reset menus!"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1644
+msgid "Successfully reset widgets!"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1839
+msgid "Successfully imported widgets!"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1862
+msgid "Successfully imported revolution sliders!"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1912
+msgid "Successfully imported simple line icon!"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1938
+msgid "Successfully imported theme options!"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/setup_wizard.php:1940
+msgid ""
+"Successfully imported theme options! Please compile default css files in "
+"Theme Options > Skin > Compile Default CSS."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:82
+msgid "Theme &rsaquo; Speed Optimize Wizard"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:112
+msgid "JS Composer & Shortcodes"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:124
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:609
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:613
+msgid "Lazy Load Images"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:130
+msgid "Other Minify"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:136
+msgid "Final Optimize"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:305
+#, php-format
+msgid "Welcome to the Speed Optimize Wizard for %s."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:306
+msgid ""
+"This Speed Optimize Wizard is introduced to optimize all resources that are "
+"unnecessary for your site content. We experienced many customers asking to "
+"remove unused resources as customers use certain feature from bunch of Porto "
+"features. Each steps have enough description about how it works. Some "
+"options may occur some conflicts if your site is still in development "
+"progress, we recommend you to enable all options once site development is "
+"completed."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:327
+msgid "Optimize Visual Composer & Shortcodes"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:328
+msgid ""
+"This will help you to optimize visual composer and shortcodes css files by "
+"removing unused shortcodes' style"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:331
+msgid "Failed Shortcodes CSS compilation!"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:335
+msgid ""
+"Below shortcodes are never used in your site content. By choosing below "
+"shortcodes, you can remove all resources related to those features. This "
+"will reduce hundreds of KB of page size."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:336
+msgid ""
+"Attention: You should uncheck necessary shortcodes and compile again to use "
+"removed shortcodes features."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:337
+msgid "Please select shortcodes to remove."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:340
+msgid "Toggle All"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:353
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:528
+msgid "Compile & Continue"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:434
+#: ../porto/views/portfolios/single/related.php:20
+msgid "Portfolios"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:436
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:455
+msgid "Optimize Revolution Slider"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:437
+msgid ""
+"This will help you to avoid loading revolution slider js/css resources for "
+"the pages that does not use revolution slider feature."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:440
+#, php-format
+msgid "Only %sbelow pages are using revolution slider feature."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:440
+#, php-format
+msgid "%s and "
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:451
+msgid ""
+"By choosing this option rest pages will not load revolution js/css resources "
+"that are around 200KB."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:461
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:617
+msgid "Save & Continue"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:496
+#: ../porto/inc/admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:371
+msgid "General"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:497
+msgid ""
+"This will help you to set up general optimization settings such as follows."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:502
+msgid "Minify CSS/JS"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:504
+msgid ""
+"This will minify all css files which Porto theme generates such as skin, "
+"dynamic_style, shortcodes, etc. Also if you check this option, it uses "
+"minified javascript files."
+msgstr ""
+
+#. $1: opening A tag which has link to the Google Webfont loader docs $2: closing A tag
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:509
+#, php-format
+msgid "Enable %1$sWeb Font Loader%2$s for Google Fonts"
+msgstr ""
+
+#. $1: opening A tag which has link to the Google PageSpeed Insights $2: closing A tag
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:512
+#, php-format
+msgid ""
+"By using this option, you can increase page speed about 4 percent in "
+"%1$sGoogle PageSpeed Insights%2$s for both of mobile and desktop."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:516
+msgid "Optimize Bootstrap"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:518
+msgid ""
+"By using this option, you can use bootstrap features only what Porto theme "
+"used. This will reduce around 150KB of page size."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:522
+msgid "Optimze FontAwesome"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:524
+msgid ""
+"By using this option, you can use fontawesome icons only what Porto theme "
+"used. This will reduce around 40KB of page size."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:610
+msgid ""
+"Enable lazy loading images. Use with caution! Disable this option if you "
+"have any compability problems."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:647
+msgid "Your Website is now optimized much better than before!"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:654
+msgid ""
+"Note: You should disable below plugins while development. They may affect "
+"your changes not applied."
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:663
+msgid "Install"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:671
+#, php-format
+msgid " <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr ""
+
+#: ../porto/inc/admin/setup_wizard/speed_optimize_wizard.php:684
+msgid "How to enable leverage browser  caching."
+msgstr ""
+
+#: ../porto/inc/admin/theme_options/save_settings.php:24
+msgid ""
+"Uploads folder must be writable. Please set write permission to your wp-"
+"content/uploads folder."
+msgstr ""
+
+#: ../porto/views/members/single/related-posts.php:31
+#, php-format
+msgid "My %1$sPosts%2$s"
+msgstr ""
+
+#: ../porto/views/members/single/related-portfolios.php:31
+#, php-format
+msgid "My %1$sWork%2$s"
+msgstr ""
+
+#: ../porto/views/members/single/related-products.php:8
+#, php-format
+msgid "My %1$sProducts%2$s"
+msgstr ""
+
+#: ../porto/views/portfolios/single/related.php:28
+#, php-format
+msgid "Related %s"
+msgstr ""
+
+#: ../porto/views/posts/single/share.php:17
+msgid "Share:"
+msgstr ""
+
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:135
+msgid "Image"
+msgstr ""
+
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:139
+msgid ""
+"You can't change the type as this is a global color attribute which was "
+"selected in Products -> Attributes."
+msgstr ""
+
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:141
+msgid ""
+"If you select default, Woocommerce default select boxes or theme default "
+"buttons will be displayed for this type."
+msgstr ""
+
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:160
+msgid "Preview"
+msgstr ""
+
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:163
+msgid "Attribute"
+msgstr ""
+
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:233
+msgid "Thumbnail Preview"
+msgstr ""
+
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:236
+msgid "Upload/Add image"
+msgstr ""
+
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:237
+msgid "Remove image"
+msgstr ""
+
+#: ../porto/inc/lib/woocommerce-swatches/classes/class-product-swatches-tab.php:252
+msgid ""
+"Please add the attributes from the \"Attributes\" tab and create a variation "
+"and save the product. After that you will see the option to configure the "
+"image/color swatch."
+msgstr ""
+
+#: ../porto/inc/admin/ReduxCore/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: ../porto/inc/admin/ReduxCore/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: ../porto/inc/admin/ReduxCore/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: ../porto/inc/admin/ReduxCore/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: ../porto/inc/admin/ReduxCore/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: ../porto/inc/admin/ReduxCore/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: ../porto/inc/admin/ReduxCore/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: ../porto/inc/admin/ReduxCore/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#. Name of the theme
+msgid "Porto Child"
+msgstr ""
+
+#. Description of the theme
+msgid "Porto Responsive WordPress + eCommerce Theme."
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.portotheme.com/wordpress/porto"
+msgstr ""
+
+#. Author of the theme
+msgid "P-THEMES"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.portotheme.com/"
+msgstr ""
