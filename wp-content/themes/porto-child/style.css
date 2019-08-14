@@ -57,6 +57,49 @@ Tags: woocommerce, corporate, ecommerce, responsive, blue, black, green, white, 
 
 /***************
 
+ HOME HEADER
+ 
+***************/
+
+#header.header-loaded .header-main {
+    margin-bottom: 13px;
+    box-shadow: 0px 1px 9px 5px rgba(0, 0, 0, 0.75);
+}
+
+#header .header-main .header-left {
+    padding: 15px 0;
+}
+
+/***************
+
+ MINI CART HEADER BAR
+ 
+***************/
+
+#mini-cart
+    > div.cart-popup.widget_shopping_cart
+    > div
+    > div.total-count
+    > span {
+    display: none;
+}
+
+/***************
+
+ CART
+ 
+***************/
+
+label {
+    font-size: 95%;
+}
+
+#order_review > table > thead > tr > th.product-name {
+    color: #ffffff;
+}
+
+/***************
+
  HOME SLIDER
  
 ***************/
@@ -82,8 +125,30 @@ ul.product_list_widget li .star-rating,
  
 ***************/
 
-product-image .labels .onhot,
+.product-image .labels .onhot,
 .summary-before .labels .onhot {
     background: rgba(243, 70, 70, 0.877);
     color: #ffffff;
+}
+
+/***************
+
+ MOBILE MENU
+ 
+***************/
+
+#nav-panel .mobile-menu li {
+    border-bottom: 1px solid cornflowerblue;
+    background-color: white;
+}
+
+/***************
+
+ SHOP ITEMS SLIDER
+ 
+***************/
+
+ul.product_list_widget li .star-rating,
+.widget ul.product_list_widget li .star-rating {
+    display: none;
 }

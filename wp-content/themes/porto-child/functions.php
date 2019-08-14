@@ -199,6 +199,19 @@ function porto_child_css() {
 	}
 }
 
+/*********
+ * 
+ *  CUSTOM CODE
+ * 
+ *********/
+
+/* Enviar a una dirección diferente aparezca desmarcada */
+
+add_filter( 'woocommerce_ship_to_different_address_checked', '__return_false' );
+
+
+/* Custom Translations */
+
 /**
  * Code goes in theme functions.php
  *
@@ -210,11 +223,56 @@ add_filter( 'gettext', function ( $strings ) {
 	 * 'to translate' => 'the translation or rewording'
 	 */
 	$text = array(
+        /* Header / Home */
 		'VIEW CART' => 'Ver Carrito',
-		'view cart'   => 'Ver Carrito',
-		'0 ITEMS'   => '0 Artículos',
-		'Shopping Cart'   => 'Carrito de Compras',
-		'Proceed to Checkout'   => 'Seguir al Pago',
+        'view cart'   => 'Ver Carrito',
+        'Go Shop' => 'Ir a la Tienda',
+        /* Tienda / Shop */
+        'You\'ve just added this product to the cart' => 'Has agregado este producto al carro',
+        'Go to cart page' => 'Ir al carrito',
+        'Continue' => 'Continuar',
+        'Sort By' => 'Ordenar por',
+        /* Modal Crear Cuenta */
+        'Please wait...' => 'Por favor espere...',
+        'Ṕlease' => 'Por favor',
+        'wait' => 'espere',
+        'Register successful, redirecting...' => 'Registro exitoso! Redireccionando...',
+        /* Mi Cuenta */
+        'First name' => 'Nombre',
+        'Last name' => 'Apellido',
+        'Email address' => 'Dirección de Email',
+        'Password Change' => 'Cambio de Contraseña',
+        'Current Password (leave blank to leave unchanged)' => 'Contraseña Actual',
+        'New Password (leave blank to leave unchanged)' => 'Nueva Contraseña',
+        'Confirm New Password' => 'Confirmar Nueva Contraseña',
+        'Save changes' => 'Guardar Cambios',
+        'The following addresses will be used on the checkout page by default.' => 'La siguientes direcciones serán usadas como predeterminadas en la página de pagos.',
+        'No order has been made yet.' => 'No se han realizado órdenes aún.',
+        'BILLING ADDRESS' => 'Dirección de Facturación',
+        'SHIPPING ADDRESS' => 'Dirección de Envíos',
+        /* Carrito de Compras */
+        'Shopping Cart'   => 'Carrito de Compras',
+        'Proceed to Checkout'   => 'Seguir al Pago',
+        'Product Name' => 'Producto',
+        'Unit Price' => 'Precio por Unidad',
+        'Qty' => 'Cant.',
+        'DISCOUNT CODE' => 'Código de Descuento',
+        'Enter your coupon code if you have one:' => 'Ingrese el código',
+        'Continue Shopping' => 'Seguir comprando',
+        'Shopping' => 'Comprando',
+        'Update Cart' => 'Actualizar Carro',
+        'ESTIMATE SHIPPING AND TAX' => 'Envío e Impuestos',
+        'Update totals' => 'Ver Opciones de Envío',
+        'CART TOTALS' => 'Total Compra',
+        'Grand Total' => 'Total Final',
+        /* Checkout */
+        'Coupon Code' => 'Código',
+        'Apply Coupon' => 'Aplicar',
+        'BILLING DETAILS' => 'Detalles de Facturación',
+        'YOUR ORDER' => 'Tu Orden',
+        'Create an account?' => 'Crear una cuenta?',
+        /* 404 */
+        'We\'re sorry, but the page you were looking for doesn\'t exist.' => 'Lo sentimos, pero la página que busca no existe.'
 	);
 
 	$strings = str_ireplace( array_keys( $text ), $text, $strings );
