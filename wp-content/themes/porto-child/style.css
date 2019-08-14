@@ -127,19 +127,8 @@ ul.product_list_widget li .star-rating,
 
 .product-image .labels .onhot,
 .summary-before .labels .onhot {
-    background: rgba(243, 70, 70, 0.877);
+    background: rgb(243, 70, 70);
     color: #ffffff;
-}
-
-/***************
-
- MOBILE MENU
- 
-***************/
-
-#nav-panel .mobile-menu li {
-    border-bottom: 1px solid cornflowerblue;
-    background-color: white;
 }
 
 /***************
@@ -151,4 +140,21 @@ ul.product_list_widget li .star-rating,
 ul.product_list_widget li .star-rating,
 .widget ul.product_list_widget li .star-rating {
     display: none;
+}
+
+/***************
+
+ FOOTER
+ 
+***************/
+
+.widget ul,
+.widget ol {
+    margin: 0 !important;
+}
+
+ol,
+ul,
+dl {
+    margin: 0;
 }

@@ -232,10 +232,9 @@ add_filter( 'gettext', function ( $strings ) {
         'Go to cart page' => 'Ir al carrito',
         'Continue' => 'Continuar',
         'Sort By' => 'Ordenar por',
+        'SALE' => 'Oferta',
         /* Modal Crear Cuenta */
-        'Please wait...' => 'Por favor espere...',
-        'Ṕlease' => 'Por favor',
-        'wait' => 'espere',
+        'Please wait' => 'Por favor espere',
         'Register successful, redirecting...' => 'Registro exitoso! Redireccionando...',
         /* Mi Cuenta */
         'First name' => 'Nombre',
